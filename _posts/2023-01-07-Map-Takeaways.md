@@ -7,7 +7,7 @@ categories: Philosophy Metaphysics
 
 # Map Reflections
 
-## Foreward
+#### Foreward
 This post takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and attempts to distill the findings from that paper into a set of main reflections. The goal of this exercise is twofold. 1) Create a list of important findings that may be easily referenced without having to dive into the minutiae of the paper. 2) Provide a set of actionable insights that are grounded in a rigorous philosophic framework.
 
 Why does this matter? For one, philosophy and metaphysics is complicated and lends itself well to running in intellectual circles.[^1] While this is precisely one of the problems that we address in *A Map of the Universe*, one still finds themself thinking, "what is my stance on that exactly?" after being prompted with some banal question such as, "what is the meaning of life?". By compiling a list of main takeaways from the philosophical framework introduced in the Map, this post will serve as a cheatsheet to sounding cool (and remaining intellectually honest) at a party (and yes, the party will likely be fairly small). Second, for all that we hold dear about philosophy and metaphysics, one issue that these domains face is that they are rarely actionable (just look at the post-structuralists). In a perfect world, all of our actions are motivated by a rigorous and thoroughly debated philosophy. While this is rarely the case, this post attempts to turn some of the insights from *A Map of the Universe* into actionable insights.
@@ -24,17 +24,17 @@ be pursued in accordance with one's Global Aesthetics.
 - Language fails us. Act, do not speak.
 - In the equilibrium, knowledge, wisdom, and words go to zero.
 
-## What is the meaning of life? Wrong question.
+#### What is the meaning of life? Wrong question.
 At the highest level (Reality), there is no meaning of life, just the Universe. As an observer of the Universe, one cannot cannot "understand" (perceive) the Universe without necessarily compressing it via language. Language introduces inaccuracies and with it goes any hope of knowing the meaning of life or the Universe. We necessarily cannot know the meaning of life. On a human level, the meaning of life is simply a function of the Global Aesthetics (the preferred perceptive states) chosen by a given human and is necessarily different for each person. With this in mind, one should think very hard about their Global Aesthetics and pursue that which is meaningful with respect to their Global Aesthetics. 
 
 As an aside, it is noteworthy emergent phenomenon that among many members of our species posit that the meaning of life is to, "try and figure it out, try and understand the Universe." Though I would be remiss to doubt the many incredible human minds who have posited this answer, it would be sacrilegious to claim that this is the objective meaning of life. However, it is interesting nonetheless to speculate as to why so many "smart" humans converge on this answer.
 
-## Comportment toward determinism.
+#### Comportment toward determinism.
 "What's happened, happened, which is an expression of faith in the mechanics of the Universe."
 
 The Universe is discrete and finite, thus is it necessarily deterministic. Given this Reality, how should a human comport themselves towards this determinism? As is the curse of metaphysics as a discipline for informing action, theory can only take you so far. Following the pattern of many of the takeaways in this piece, there are a set of higher level Truths about the Universe such as the fact that it is deterministic, but within the domain space defined by these Truths we are left helpless to do as we please. If you choose to internalize that the Universe is deterministic, than one is free to do so and as a pleasant benefit of choosing this path, one should feel no stress, obligation, or strife. However, we are also by default capable o creating the illusion of free will through our inability to perfectly model the Universe. If you choose to believe in freedom, then one should optimize over the activities that produce the illusion of free will[^2]. And with all things, one's choice of how much to lean into determinism should be a function of one's Global Aesthetics.[^3]
 
-## The implications of language, compression.
+#### The implications of language, compression.
 
 “From the beginning, the Universe signified the totality of what humankind can expect to know about it. What people call the progress of the human mind and, in any case, the progress of scientific knowledge, could only have been and can only ever be constituted out of processes of correcting and recutting of patterns, regrouping, defining relationships of belonging and discovering new resources, inside a totality which is closed.” - Giorgio Agamben, Taste
 
@@ -48,7 +48,7 @@ Given that language will necessary fail us, one should also tune their comporten
 
 And yes, this entire section (and post for that matter) is self-referentially ironic[^7].
 
-## Words in equilibrium.
+#### Words in equilibrium.
 
 “We could not reach the final object of knowledge without the dissolution of knowledge, which aims to reduce its object to the condition of subordinated and managed things. The ultimate problem of knowledge is the same as that of consumption. No one can both know and not be destroyed; no one can both consume wealth and increase it.” - Georges Bataille
 
@@ -62,11 +62,11 @@ This harsh Reality is not an excuse to do nothing, but rather a token to call on
 
 "In a strange and beautiful valley, a mountain looming over the horizon beckons. Answer its call, ascend the peak, and gaze down into the valley from Olympian heights. From hence, return to the valley and roam, all experiences now imbued with celestial clarity."
 
-## Life is a single player game.
+#### Life is a single player game.
 - It’s all about people and their singly player stories that shape the world. How to comport oneself given this.
 - Given that we are perceptive agents modeling signals from the Universe via language, we truly play a first player game. The implication of this is that within bounds, we can render whatever reality we want. “Life is a single-player game. It is all going on in your head. Given this, shape reality into the reality that you desire.”
 
-## On Taste, Aesthetics, Beauty, and Passing Judgment
+#### On Taste, Aesthetics, Beauty, and Passing Judgment
 - Given the statement above about no aesthetic being better than any other, how is this reconciled with the great works of art that have transcended culture and time (Boticelli, Beatles, Ludwig van Beethoven), simple, within the forces that give rise to our Global Aesthetics (nature + nature, which is beyond the scope of this post), there are some common threads which are "artistically exploitable". These threads however are particular to human beings and the environment we are raised in (the Earth) and are ultimately arbitrary.
 - Aesthetics as knowledge of the excessive signifier (of the beautiful, that which can’t be compressed in language)
 - Beauty must save truth and truth must save beauty. In this double salvation, knowledge is realized.
