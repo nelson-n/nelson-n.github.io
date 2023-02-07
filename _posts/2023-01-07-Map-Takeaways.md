@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Map Reflections"
+title:  "The Map, Then the Territory"
 date:   2023-01-10 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
@@ -62,9 +62,15 @@ This harsh Reality is not an excuse to do nothing, but rather a token to call on
 
 "In a strange and beautiful valley, a mountain looming over the horizon beckons. Answer its call, ascend the peak, and gaze down into the valley from Olympian heights. From hence, return to the valley and roam, all experiences now imbued with celestial clarity."
 
+- Knowledge is adversarial. Throw away the ladder (quote Wittgenstein) here.
+
+
 #### Life is a single player game.
 - It’s all about people and their singly player stories that shape the world. How to comport oneself given this.
 - Given that we are perceptive agents modeling signals from the Universe via language, we truly play a first player game. The implication of this is that within bounds, we can render whatever reality we want. “Life is a single-player game. It is all going on in your head. Given this, shape reality into the reality that you desire.”
+
+#### On the implicatios of self not being consistent.
+- Given that the self is not consistent (different) every day, how should you change your comportment towards the world?
 
 #### On Taste, Aesthetics, Beauty, and Passing Judgment
 - Given the statement above about no aesthetic being better than any other, how is this reconciled with the great works of art that have transcended culture and time (Boticelli, Beatles, Ludwig van Beethoven), simple, within the forces that give rise to our Global Aesthetics (nature + nature, which is beyond the scope of this post), there are some common threads which are "artistically exploitable". These threads however are particular to human beings and the environment we are raised in (the Earth) and are ultimately arbitrary.
@@ -81,7 +87,6 @@ On passing judgment:
 - But one should not pass judgment on the objectives/stress of others because there is no Universal hierarchy of global aesthetics 
 
 - Beauty is emergently complex systems. Human language, music, art, architecture, society.
-
 
 
 
