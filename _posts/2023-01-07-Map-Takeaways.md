@@ -5,22 +5,21 @@ date:   2023-01-10 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
-# Map Reflections
+# The Map, Then the Territory
 
 #### Foreward
-This post takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and attempts to distill the findings from that paper into a set of main reflections. The goal of this exercise is twofold. 1) Create a list of important findings that may be easily referenced without having to dive into the minutiae of the paper. 2) Provide a set of actionable insights that are grounded in a rigorous philosophic framework.
+This post takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and attempts to distill the findings from that paper into a set of useful takeaways. The goal of this exercise is twofold. 1) Create a list of important findings that may be easily referenced without having to dive into the minutiae of the paper. 2) Provide a set of actionable insights that are grounded in a rigorous philosophic framework.
 
-Why does this matter? For one, philosophy and metaphysics is complicated and lends itself well to running in intellectual circles.[^1] While this is precisely one of the problems that we address in *A Map of the Universe*, one still finds themself thinking, "what is my stance on that exactly?" after being prompted with some banal question such as, "what is the meaning of life?". By compiling a list of main takeaways from the philosophical framework introduced in the Map, this post will serve as a cheatsheet to sounding cool (and remaining intellectually honest) at a party (and yes, the party will likely be fairly small). Second, for all that we hold dear about philosophy and metaphysics, one issue that these domains face is that they are rarely actionable (just look at the post-structuralists). In a perfect world, all of our actions are motivated by a rigorous and thoroughly debated philosophy. While this is rarely the case, this post attempts to turn some of the insights from *A Map of the Universe* into actionable insights.
+Why does this matter? For one, philosophy and metaphysics is complicated and lends itself to running in intellectual circles.[^1] While this is precisely one of the problems that we address in *A Map of the Universe*, one still finds themself thinking, "what is my stance on that?" after being prompted with a question such as, "what is the meaning of life?". By compiling a list of takeaways from the philosophical framework introduced in the Map, this post serves as a cheatsheet for remaining intellectually honest. Second, for all that we hold dear about philosophy and metaphysics, one issue that these domains face is that they are rarely actionable. In a perfect world, all actions would be motivated by a rigorous and thoroughly debated philosophy. While this is rarely the case, this post attempts to turn some of the insights from *A Map of the Universe* into actionable insights. In short, this is a compression exercise. Just as all of human existence is a compression exercise. 
 
-If any of the statements that follow feel bold and unfounded, one may refer to the full text of *A Map of the Universe* for rigorous proofs. If it is not immediately obvious where these foundational statements are placed, one may consider the usage the word
-"necessarily" to be a signal for a bold statement that will be a fundamental to the coming takeaway and for which there is a proof in the map. It is also worth pointing out that this piece does not have contain arguments or references to anything other than *A Map of the Universe*. I do not attempt to prove my takeaways nor convince anyone. I merely hope to think through the implications of what I have already posited and clarify things for myself and those who have the same insights as me.
+This post does not make any arguments, it does not try to prove itself, and does not reference anything other than the *Map*. I merely hope to think through the implications of what has already been posited in the *Map* and clarify things for myself and those who have the same insights as me. For rigorous proofs of any of the bold statements made below, one may refer to the full tet of *A Map of the Universe*. If it is not immediately obvious where these foundational statements are placed, one may consider the usage the word "necessarily" to be a signal for a bold statement that will be a fundamental to the coming postulation.
 
-In short, this is a compression exercise. Just as all of human existence is a compression exercise. Reflections on the Map are as follows:
+Reflections on the Map are as follows:
 
 - The Universe is necessarily meaningless. "Meaning" is human specific and should
 be pursued in accordance with one's Global Aesthetics.
-- The Universe is deterministic, but one is free to comport themselves towards this reality as they wish.
-- We cannot know objective truths, in light of this one should judge, pass objective judgment, nor impart one's will upon another.
+- The Universe is deterministic but humans have the ability to perceive it as non-deterministic. One is free to comport themselves towards this Reality as they wish.
+- We cannot know objective truths, in light of this one should not judge, pass objective judgment, nor impart one's will upon another.
 - Language fails us. Act, do not speak.
 - In the equilibrium, knowledge, wisdom, and words go to zero.
 
@@ -35,6 +34,11 @@ As an aside, it is noteworthy emergent phenomenon that among many members of our
 The Universe is discrete and finite, thus is it necessarily deterministic. Given this Reality, how should a human comport themselves towards this determinism? As is the curse of metaphysics as a discipline for informing action, theory can only take you so far. Following the pattern of many of the takeaways in this piece, there are a set of higher level Truths about the Universe such as the fact that it is deterministic, but within the domain space defined by these Truths we are left helpless to do as we please. If you choose to internalize that the Universe is deterministic, than one is free to do so and as a pleasant benefit of choosing this path, one should feel no stress, obligation, or strife. However, we are also by default capable o creating the illusion of free will through our inability to perfectly model the Universe. If you choose to believe in freedom, then one should optimize over the activities that produce the illusion of free will[^2]. And with all things, one's choice of how much to lean into determinism should be a function of one's Global Aesthetics.[^3]
 
 #### The implications of language, compression.
+
+- It's all about modeling. What are the implications of this?
+    - Everything from human vision to MNIST neural net to ChatGPT to y = ax + b
+    is just a model specified in a given language to explain a substrate phenomenon
+    and they all involve converting an input to a compressed and understandable output.
 
 “From the beginning, the Universe signified the totality of what humankind can expect to know about it. What people call the progress of the human mind and, in any case, the progress of scientific knowledge, could only have been and can only ever be constituted out of processes of correcting and recutting of patterns, regrouping, defining relationships of belonging and discovering new resources, inside a totality which is closed.” - Giorgio Agamben, Taste
 
@@ -54,11 +58,11 @@ And yes, this entire section (and post for that matter) is self-referentially ir
 
 The set of takeaways posited above paint a rather dim picture of human faculties and our ability to state meaningful things about the Universe. Humans cannot know objective truths, language is necessarily inaccurate, and hierarchies of belief and action are not founded. Things get even worse when you introduce the Void, the inherent ability of humans to iteratively negate any Truth until the set of all possible Truths has been destroyed[^8]. Putting together the flaws of language with the ability to negate any conclusion, one cannot help but arrive at an even darker conclusion about the relationship of humans to knowledge. 
 
-In the equilibrium, all knowledge goes to zero.
-In the equilibrium, all wisdom goes to zero.
 In the equilibrium, all words go to zero.[^9]
+In the equilibrium, all wisdom goes to zero.
+In the equilibrium, all knowledge goes to zero.
 
-This harsh Reality is not an excuse to do nothing, but rather a token to call on as one performs actions in the Universe. It should not be a disappointing fact of life, but rather a liberating one. In a paradoxical manner, the understanding that knowledge goes to zero liberates one from the burden of knowledge. Bataille accurately posited that one cannot both know and not be destroyed. The solution to this paradox is to destroy knowledge. Then one may both Know and not be destroyed. In this sense, knowledge is a local maxima. One must undergo the painful process of acquiring knowledge in order to arrive at a place where it may be destroyed. One then continues with only a souvenir (token) of their past journey, the Knowledge that knowledge goes to zero.
+This harsh Reality is not an excuse to do nothing, but rather a token to call on as one performs actions in the Universe. It should not be a disappointing fact of life, but rather a liberating one. In a paradoxical manner, the understanding that knowledge goes to zero liberates one from the burden of knowledge. Bataille accurately posited that one cannot both know and not be destroyed. The solution to this paradox is to destroy knowledge. Then one may both Know and not be destroyed. In this sense, knowledge is a local maxima. One must undergo the painful process of acquiring knowledge in order to arrive at a place where it may be destroyed. One may then continues with only a souvenir (token) of their past journey, the Knowledge that knowledge goes to zero.
 
 "In a strange and beautiful valley, a mountain looming over the horizon beckons. Answer its call, ascend the peak, and gaze down into the valley from Olympian heights. From hence, return to the valley and roam, all experiences now imbued with celestial clarity."
 
@@ -69,10 +73,29 @@ This harsh Reality is not an excuse to do nothing, but rather a token to call on
 - It’s all about people and their singly player stories that shape the world. How to comport oneself given this.
 - Given that we are perceptive agents modeling signals from the Universe via language, we truly play a first player game. The implication of this is that within bounds, we can render whatever reality we want. “Life is a single-player game. It is all going on in your head. Given this, shape reality into the reality that you desire.”
 
-#### On the implicatios of self not being consistent.
+The universe exists within 6 inches of the skull.
+
+While we are in practice constrained in how we model aspects of Reality such as the physical environment due to [genetics, the lack of plasticity of the brain/human compute structure (though in a theoretical sense we could model it any way we wanted, i.e. look at schizophrenics)]. Setting aside the edge case of modifying how we perceive that which is exterior, we have a large amount of autonomy over how we internally comport ourselves towards the exterior signals that we receive. 
+
+We are of course subject to nature, nuture, chemical reactions, seratonin, et cetera, but from the first-principles metaphysics perspective the edge finding is that we can shape perceived Reality into whatever we like. 
+
+There is no normative advice to give about how it should be shaped, but that it should be shaped in accordance with GA and the full understanding that we have control over it.
+
+
+
+
+#### On the implications of self not being consistent.
 - Given that the self is not consistent (different) every day, how should you change your comportment towards the world?
 
+- Only pursue the activities that cotify self to the degree that it aids in the realization of your Global Aesthetics.
+- Know that you will have to rebuild yourself every day.
+
+
+
 #### On Taste, Aesthetics, Beauty, and Passing Judgment
+
+- The majority of the takeaways thus far have been of the form: this is the way things are in Reality, but Reality does not prescribe a normative reccomendation, so with this Reality in mind pursue your Global Aesthetics. While the following will not attempt to prescribe aesthetics, it studies where aesthetics come from and offers a way to think about aesthetics.
+
 - Given the statement above about no aesthetic being better than any other, how is this reconciled with the great works of art that have transcended culture and time (Boticelli, Beatles, Ludwig van Beethoven), simple, within the forces that give rise to our Global Aesthetics (nature + nature, which is beyond the scope of this post), there are some common threads which are "artistically exploitable". These threads however are particular to human beings and the environment we are raised in (the Earth) and are ultimately arbitrary.
 - Aesthetics as knowledge of the excessive signifier (of the beautiful, that which can’t be compressed in language)
 - Beauty must save truth and truth must save beauty. In this double salvation, knowledge is realized.
@@ -85,6 +108,8 @@ Should one stress? (Also a statement on comparison between humans)
 On passing judgment:
 - there can be a hierarchy within the GA of an individual, and one should stake / stress in a way that is commensurate with their hierarchy, their tastes
 - But one should not pass judgment on the objectives/stress of others because there is no Universal hierarchy of global aesthetics 
+
+- Given that knowledge and words go to 0, value knowledge for its aesthetic beauty. Clarity to optimize over food, music, views, etc, this is all that matters when words go to 0. There is no point in understanding, just feel. 
 
 - Beauty is emergently complex systems. Human language, music, art, architecture, society.
 
