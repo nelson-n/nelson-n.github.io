@@ -52,6 +52,20 @@ Given that language will necessary fail us, one should also tune their comporten
 
 And yes, this entire section (and post for that matter) is self-referentially ironic[^7].
 
+
+**Map Takeaway - Intelligence is compression.**
+- Universe is an automata, each stage of intelligence is some form of compression of that massive number of parameters into a compressed form that a compute object (our brain) can operate on.
+- That which compresses the most is the most intelligent.
+- Thus… AI wins.
+- Intelligence = ability to model, models = compression.
+- Intelligence = model = compression. 
+
+
+
+
+
+
+
 #### Words in equilibrium.
 
 “We could not reach the final object of knowledge without the dissolution of knowledge, which aims to reduce its object to the condition of subordinated and managed things. The ultimate problem of knowledge is the same as that of consumption. No one can both know and not be destroyed; no one can both consume wealth and increase it.” - Georges Bataille
