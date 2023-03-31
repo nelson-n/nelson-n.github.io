@@ -5,12 +5,15 @@ date:   2023-01-10 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
-# The Map, Then the Territory
+### Foreward
 
-#### Foreward
-This post takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and attempts to distill the findings from that paper into a set of useful takeaways. The goal of this exercise is twofold. 1) Create a list of important findings that may be easily referenced without having to dive into the minutiae of the paper. 2) Provide a set of actionable insights that are grounded in a rigorous philosophic framework.
+This piece takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and distills the metaphysical findings from that paper into a set of principal takeaways. The goal of this exercise is twofold. 1) Create a list of fundamental findings that may be easily referenced without having to dive into the minutiae of the paper. 2) Provide a set of insights that are grounded in a rigorous philosophical framework.
 
-Why does this matter? For one, philosophy and metaphysics is complicated and lends itself to running in intellectual circles.[^1] While this is precisely one of the problems that we address in *A Map of the Universe*, one still finds themself thinking, "what is my stance on that?" after being prompted with a question such as, "what is the meaning of life?". By compiling a list of takeaways from the philosophical framework introduced in the Map, this post serves as a cheatsheet for remaining intellectually honest. Second, for all that we hold dear about philosophy and metaphysics, one issue that these domains face is that they are rarely actionable. In a perfect world, all actions would be motivated by a rigorous and thoroughly debated philosophy. While this is rarely the case, this post attempts to turn some of the insights from *A Map of the Universe* into actionable insights. In short, this is a compression exercise. Just as all of human existence is a compression exercise. 
+Why engage in such a *vain* pursuit?[^1] For one, philosophy and metaphysics is *naturally* complicated and often results in the running of intellectual circles.[^1] While this is one of the problems that we attempt to address in *A Map of the Universe*, the constraints of human compute and memory often result in one thinking, "what exactly is my stance on that?" after being prompted with a question such as, "what is the meaning of life?". By compiling a list of takeaways from the philosophical framework of the Map, this post serves as a cheatsheet for remaining intellectually honest. Second, for all that we hold dear about philosophy and metaphysics, one issue these domains face is that they rarely inform how one should act. 
+
+# left here
+
+In a philosophically consistent world, all actions would be motivated by a rigorous and thoroughly debated philosophy. While this is rarely the case, this post attempts to turn some of the insights from *A Map of the Universe* into actionable insights. In short, this is a compression exercise. Just as all of human existence is a compression exercise. 
 
 This post does not make any arguments, it does not try to prove itself, and does not reference anything other than the *Map*. I merely hope to think through the implications of what has already been posited in the *Map* and clarify things for myself and those who have the same insights as me. For rigorous proofs of any of the bold statements made below, one may refer to the full tet of *A Map of the Universe*. If it is not immediately obvious where these foundational statements are placed, one may consider the usage the word "necessarily" to be a signal for a bold statement that will be a fundamental to the coming postulation.
 
@@ -132,6 +135,7 @@ On passing judgment:
 
 
 
+[^1]: For the search for metaphysical truths is performed both in *vain* and in *vanity*.
 
 [^1]: This being a result of the fact that philosophy generally starts uses natural language and broadly defined concepts to get its point across (as opposed to using a language such as mathematics which is tightly scoped to the domain of concepts where you can prove all the statements that you make).
 
