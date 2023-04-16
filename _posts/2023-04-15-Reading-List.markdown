@@ -6,14 +6,41 @@ categories: jekyll update
 ---
 
 ### Autofiction List
-1. *Confessions of St. Augustine*, **Augustine of Hippo** &darr;
-2. *The Reveries of the Solitary Walker*, **Jean-Jacques Rousseau** &darr;
+1. *Confessions of St. Augustine*, **Augustine of Hippo**, 400 &darr;
+2. *The Reveries of the Solitary Walker*, **Jean-Jacques Rousseau**, 1778 &darr;
 3. *?* - **Michel de Montaigne** &darr;
 4. *The Life of Henry Brulard*, **Stendhal** &darr;
 5. *The Sorrows of Young Werther*, **Johann Wolfgang Goethe** &darr;
-6. *Swann's Way*, **Marcel Proust** &rarr; *In the Shadow of Young Girls in Flower*
-7. *My Struggle Book 1*, **Karl Knausgaard**
+6. *Swann's Way*, **Marcel Proust** &darr; &rarr; *In the Shadow of Young Girls in Flower*, **Marcel Proust** &rarr; ... &rarr; *The Fugitive Time Regained*, **Marcel Proust** 
+7. *My Struggle Book 1*, **Karl Knausgaard** &rarr; *My Struggle Book 2*, **Karl Knausgaard** &rarr; ... &rarr; *My Struggle Book 6* **Karl Knausgaard**
 
+### The Thread of Epics
+1. *The Iliad*, **Homer**, 750BC &darr;
+2. *The Odyssey*, **Homer**, 700BC &darr;
+3. *The Aeneid*, **Virgil**, 29BC &darr;
+4. *The Divine Comedy*, **Dante Alighieri**, 1321 
+
+
+
+### On Human Nature
+Paradise Lost - Milton
+The Idiot - Dostoevsky
+Madame Bovary - Flaubert
+War and Peace - Tolstoy
+East of Eden - Steinbeck
+Camus
+
+
+
+
+War and Peace
+Ulysses
+
+
+### Disorientation of Existence
+Kafka
+Camus
+Master and Margarita
 
 
 
@@ -32,21 +59,7 @@ Books to find God
 Fear and Trembling - Soren Kierkegaard
 A Confession - Tolstoy
 
-To Understand the Human Conditions
-Paradise Lost - Milton
-The Idiot - Dostoevsky
-Madame Bovary - Flaubert
-War and Peace - Tolstoy
-East of Eden - Steinbeck
-Camus
 
-A Brief History of the Epics
-Iliad
-Odyssey
-Aeneid
-Dante Inferno
-War and Peace
-Ulysses
 
 Primer on Postmodernism (the world is wonky)
 Nietszche 
@@ -68,6 +81,8 @@ Tocqueville
 Frederick Jckson Turner frontier thesis
 on the road / dharma bums
 American Pastoral - 
+East of Eden
+
 
 Decadence and wonkiness
 Huysmans
@@ -77,4 +92,5 @@ Houllebecque again
 Sartre - nausea
 houllebecque again
 nobokov - lolita
+master and margarita
 
