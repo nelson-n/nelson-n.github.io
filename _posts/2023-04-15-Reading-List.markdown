@@ -5,7 +5,7 @@ date:   2023-04-15 14:14:35 -0800
 categories: jekyll update
 ---
 
-### Autofiction List
+### The History of Autofiction
 1. *Confessions of St. Augustine*, **Augustine of Hippo**, 400 &darr;
 2. *The Reveries of the Solitary Walker*, **Jean-Jacques Rousseau**, 1778 &darr;
 3. *?* - **Michel de Montaigne** &darr;
@@ -20,39 +20,48 @@ categories: jekyll update
 3. *The Aeneid*, **Virgil**, 29BC &darr;
 4. *The Divine Comedy*, **Dante Alighieri**, 1321 
 
-
-
 ### On Human Nature
-Paradise Lost - Milton
-The Idiot - Dostoevsky
+1. *Paradise Lost*, **John Milton**, 1674 &darr;
+2. *On the Genealogy of Morality*, **Friedrich Nietzsche**, 1887 &darr; &rarr; *Heart of Darkness*, **Joseph Conrad**, 1899
+3. *Crime and Punishment*, **Fyodor Dostoevsky**, 1866 &darr; &rarr; *Notes from Underground*, **Fyodor Dostoevsky**, 1864
+4. *Ulysses*, **James Joyce**, 1922 &darr; 
+5. *The Brothers Karamazov*, **Fyodor Dostoevsky**, 1880
+
+### Disorientation and Apathy of Existence
+* Gets weirder and weirder over time.
+1. *The Stranger*, **Albert Camus**, 1942 &darr; &rarr; *A Hero of Our Time*, **Mikhail Lermontov**, 1840
+2. *The Trial*, **Franz Kafka**, 1925
+
+
+
+
+
 Madame Bovary - Flaubert
 War and Peace - Tolstoy
-East of Eden - Steinbeck
 Camus
+
+A Hero of Our Time
+The Stranger - Camus
 
 
 
 
 War and Peace
-Ulysses
 
 
-### Disorientation of Existence
-Kafka
-Camus
-Master and Margarita
 
 
 
 Find a spot for:
 Less than Zero - Bret Easton Ellis
-A Hero of our Time - Lermontov
-On the Genealogy of Morals - Friedrich Nietzsche
 The Goldfinch - Donna Tartt
-Heart of Darkness - Joseph Conrad
-Crime and Punishment - Fyodor Dostoevsky
 The Stranger - Camus
+
+## Beautiful Prose
+Madame Bovary
 Lolita - Vladimir Nabokov
+
+
 The Myth of Sisyphus - Camus
 
 Books to find God
