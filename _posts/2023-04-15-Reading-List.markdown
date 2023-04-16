@@ -6,17 +6,9 @@ categories: jekyll update
 ---
 
 ## Autofiction List
-*Confessions of St. Augustine* - **Augustine of Hippo**
-
-&darr;
-
-*The Reveries of the Solitary Walker* - Jean-Jacques Rousseau 
-
-&darr;
-
-? - Michel de Montaigne 
-
-&darr;
+1. *Confessions of St. Augustine*, **Augustine of Hippo** &darr;
+2. *The Reveries of the Solitary Walker* - Jean-Jacques Rousseau &darr;
+3. *?* - Michel de Montaigne &darr;
 
 The Life of Henry Brulard - Stendhal
 
