@@ -11,8 +11,8 @@ categories: jekyll update
 3. *?* - **Michel de Montaigne** &darr;
 4. *The Life of Henry Brulard*, **Stendhal** &darr;
 5. *The Sorrows of Young Werther*, **Johann Wolfgang Goethe** &darr;
-6. *Swann's Way*, **Marcel Proust** &darr; &rarr; *In the Shadow of Young Girls in Flower*, **Marcel Proust** &rarr; ... &rarr; *The Fugitive Time Regained*, **Marcel Proust** 
-7. *My Struggle Book 1*, **Karl Knausgaard** &rarr; *My Struggle Book 2*, **Karl Knausgaard** &rarr; ... &rarr; *My Struggle Book 6* **Karl Knausgaard**
+6. *In Search of Lost Time*, **Marcel Proust** &darr; 
+7. *My Struggle*, **Karl Knausgaard** 
 
 ### The Thread of Epics
 1. *The Iliad*, **Homer**, 750BC &darr;
@@ -22,84 +22,47 @@ categories: jekyll update
 
 ### On Human Nature
 1. *Paradise Lost*, **John Milton**, 1674 &darr;
-2. *On the Genealogy of Morality*, **Friedrich Nietzsche**, 1887 &darr; &rarr; *Heart of Darkness*, **Joseph Conrad**, 1899
-3. *Crime and Punishment*, **Fyodor Dostoevsky**, 1866 &darr; &rarr; *Notes from Underground*, **Fyodor Dostoevsky**, 1864
+2. *On the Genealogy of Morality*, **Friedrich Nietzsche**, 1887 &darr;
+3. *Heart of Darkness*, **Joseph Conrad**, 1899
+3. *Crime and Punishment*, **Fyodor Dostoevsky**, 1866 &darr; 
 4. *Ulysses*, **James Joyce**, 1922 &darr; 
 5. *The Brothers Karamazov*, **Fyodor Dostoevsky**, 1880
 
 ### Disorientation and Apathy of Existence
-* Gets weirder and weirder over time.
-1. *The Stranger*, **Albert Camus**, 1942 &darr; &rarr; *A Hero of Our Time*, **Mikhail Lermontov**, 1840
+1. *The Stranger*, **Albert Camus**, 1942 &darr;
+2. *A Hero of Our Time*, **Mikhail Lermontov**, 1840 &darr;
 2. *The Trial*, **Franz Kafka**, 1925
 
-
-
-
-
-Madame Bovary - Flaubert
-War and Peace - Tolstoy
-Camus
-
-A Hero of Our Time
-The Stranger - Camus
-
-
-
-
-War and Peace
+### Decadence and Modernity
+1. *Against Nature*, **Joris-Karl Huysmans**, 1884 &darr;
+2. *Submission*, **Michel Houellebecq**, 2015
 
 
 
 
 
-Find a spot for:
-Less than Zero - Bret Easton Ellis
-The Goldfinch - Donna Tartt
-The Stranger - Camus
+#### Find a spot for:
+* Less than Zero - Bret Easton Ellis
+* The Goldfinch - Donna Tartt
+* The Stranger - Camus
+* Madame Bovary - Flaubert
+* War and Peace - Tolstoy
+* Lolita - Vladimir Naboko
+* master and margarita - Bulgakov
+* The Myth of Sisyphus - Camus
+* Fear and Trembling - Soren Kierkegaard
+* A Confession - Tolstoy
 
-## Beautiful Prose
-Madame Bovary
-Lolita - Vladimir Nabokov
-
-
-The Myth of Sisyphus - Camus
-
-Books to find God
-Fear and Trembling - Soren Kierkegaard
-A Confession - Tolstoy
-
-
-
-Primer on Postmodernism (the world is wonky)
-Nietszche 
-Camus
-Kafka
-Borges
-Calvino
-Bataille
-
-The way the world is:
-Marx
-Foucoult
-Caitalist Realism - Mark Fisher
-1984 - George Orwell?
-
-On America
-Tocqueville
-1776 mculloug
-Frederick Jckson Turner frontier thesis
-on the road / dharma bums
-American Pastoral - 
-East of Eden
-
-
-Decadence and wonkiness
-Huysmans
-Houllebecque - submission
-Camus - Stranger
-Houllebecque again
-Sartre - nausea
-houllebecque again
-nobokov - lolita
-master and margarita
+#### The way the world is:
+* Marx
+* Foucoult
+* Capitalist Realism - Mark Fisher
+* 1984 - George Orwell?
+#### On America
+* Tocqueville
+* 1776 - McCulloug
+* Frederick Jckson Turner frontier thesis
+* on the road / dharma bums
+* American Pastoral -
+* East of Eden
 
