@@ -5,6 +5,9 @@ date: 2023-01-13 14:00:00 -0800
 categories: Metaphysics
 ---
 
+Forthcoming blog post about attention (or a lack thereof). Hold tight folks, this one is going to be good.
+
+
 **To-do**
 - Come up with a better name for the post.
 
