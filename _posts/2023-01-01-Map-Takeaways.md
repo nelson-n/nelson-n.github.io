@@ -116,56 +116,23 @@ The ephemeral nature of Self gives us a strong boundary from which we can draw c
 
 Despite this relative freedom that the Universe grants us, the ability to maintain a consistent self is an important feature for accomplishing many of the objectives that have been historically favored by human society: achieving long-term goals, maintaining inter-human relationships, and long-term planning based on a set of consistent tastes. To the degree that these objectives are commensurate with ones Global Aesthetics, one should lean into practices and mantras that consistently remind oneself of their constructed Self. The form of these practices is again left to the individual, and may overlap with practices aimed at autonomously altering the way in which you perceive the Universe. And if the practice involves compiling a set of takeaways about the nature of the Universe to remind yourself of a few things, go ahead.
 
-### On Taste, Aesthetics, and Beauty
+### On Aesthetics, Clarity, and Beauty
 
 The above sections have worked to clearly identify the boundaries of the human realm and have typically taken the form of: this is the way things are in Reality, but Reality does not prescribe normative reccomendations, so with this in mind one should pursue that which is commensurate with their Global Aesthetics. While the following section will not attempt to prescribe a normative Global Aesthetics, it studies where aesthetics come from and offers a way to think about aesthetics.
 
 One may object to the claim that the Universe remains silent on the subject of aesthetics, citing Platonic forms and the existence of works of art, social modes, and beauty that have transcended culture and time. While the persistance of certain aesthetics make it difficult to argue against the possibility of the Platonic, this Platonic may be easily reconciled as a phenomena that exists within the space of the human and is ultimately a function of nature and nurture (footnote: the exact decomposition of which is not to be considered in this post). Within the social, economic, and biological forces that give rise aesthetics, there are a set of common threads foisted upon us by the epistemes of the era, epistemes that have been proven by many to be ultimately arbitrary (cite Fourcoult here). The Universe remains silent on Global Aesthetics, but the history of humanity does not. This again leaves us in an unsatisfactory place, as we are given no guidance on the precise object around which we are to fashion our lives, aesthetics.
 
-Once again, the best we can do is to give a definition of aesthetics and define the boundaries in which we may operate. Aesthetics is the excessive signifier. A set of Parts that cannot be captured by any given language or model without a large degree of slippage, and it is precisely in this slippage that aesthetics may be found. Out of this definition fall important implications. The inability for aesthetics to be captured and compressed means that aesthetics and Global Aesthetics may only be approached via intuition. For the same reason aesthetics cannot be discussed, only shown. Destined for failure is the human who attempts to explain their Global Aesthetics for the only authentic representation of aesthetics comes through action. Do not speak, act. This act is beauty, in and of itself. Beauty is an aesthetic that is fully pronounced, fully realized. An act that maximizes the excessive signifier with respect to a given aesthetic and actualizes this excessive signifier upon the substrate of Reality. In this sense, beauty is precisely the act of aligning Reality with a Global Aesthetic. 
+Once again, the best we can do is to give a definition of aesthetics and define the boundaries in which we may operate. Aesthetics is the excessive signifier. A set of Parts that cannot be captured by any given language or model without a large degree of slippage, and it is precisely in this slippage that aesthetics may be found. Out of this definition falls important implications. The inability for aesthetics to be captured and compressed means that aesthetics and Global Aesthetics may only be approached via intuition. For the same reason aesthetics cannot be discussed, only shown. Destined for failure is the human who attempts to explain their Global Aesthetics for the only authentic representation of aesthetics comes through action. Do not speak, act. This act is Beauty, in and of itself. Beauty is an aesthetic that is fully pronounced, fully realized. An act that maximizes the excessive signifier with respect to a given aesthetic and actualizes this excessive signifier upon the substrate of Reality. In this sense, Beauty is precisely the act of aligning Reality with a Global Aesthetic. Thus follows that the goal of life is to achieve the beautiful, to strive to achieve one's Global Aesthetics. And given the individuated nature of the Universe, achieving this Beauty is all that matters.
 
-In this sense the goal of life is to achieve the beautiful, to strive to achieve one's Global Aesthetics. And given the individuated nature of the Universe, achieving this beauty is all that matters.
+If Beauty is a pursuit, an act of moving in a specific direction, the question remains of what this direction should be. While no normative direction can be prescribed, we can assert that this direction ought to be well-defined. This is Clarity. A well-defined understanding of one's Global Aesthetics, a certainty about the direction in which one should move in the pursuit of Beauty. If Beauty is the only pursuit, then we are better served if this pursuit follows a linear path instead of one which wanders. While advice on how to achieve Clarity is beyond the scope of this work, within the framework developed in this piece we can assert the importance of Clarity and its role in actualizing Beauty.
 
-This leads to refuting hierarchy of taste:
+# How to Act in a Metaphysically Silent Universe
 
-On passing judgment:
-- there can be a hierarchy within the GA of an individual, and one should stake / stress in a way that is commensurate with their hierarchy, their tastes
-- But one should not pass judgment on the objectives/stress of others because there is no Universal hierarchy of global aesthetics 
+Any call to the Universal is met with silence as its meaning is nothing more than that which it is, and that which it is cannot be captured by anything other than the Universe itself. This leaves us in a metaphysically silent Universe in which the only object we have to cling is a set of Global Aesthetics imparted upon us. While our Global Aesthetics appears a shaky lifeboat amid a sweeping sea of silence, it is all that we have to cling to, and in a metaphysically precarious Universe the best that we can do is cling on tightly.
 
+Clinging to and striving towards our Global Aesthetics is how we are to act in a metaphysically silent Universe. This is to craft a lifeboat of Global Aesthetics in which we are stable and certain, and then ride this lifeboat through the hostile environ that it the Universal, an environ where humans were not meant to go. Our Global Aesthetics provides a modus operandi, a set of morals, tastes, objectives, and future states around which we may construct meaning, purpose, and stability. At the end of the day Global Aesthetics is all that we have, and thus we must approach and pursue it with the utmost care and rigor.
 
-
-
-
-
-
-
-### How to act in a metaphysically silent Universe?
-
-Connection to above: beauty = purpose = GA
-
-In an attempt to remain faithful to the laws of the Universal, I have often resorted to the unuseful words "pursue in accordance with your GA"
-
-- Sam's Aristotelian idea of doing the best version of yourself as the only metaphysically logical goal.
-
-"You call out to the Universe for answers and receive only silence."
-
-Principal idea: doggedly pursue your GA.
-
-How should one act, how should one inform decisions in the human-centric aspects of life where metaphysics gives us no guide. It does not tell us how to act, apart from in accordance with our Global Aesthetics. While this is sufficiently vague, it provides a whole modus operandi, set of morals, drive, and decision heuristics once it is completely filled with one's Global Aesthetics. Metaphysics cannot tell us how to set our Global Aesthetics, but it does tell us to doggedly pursue it and to not preoccupy ourselves with the actions of others. This is the metaphysical call, to doggedly pursue our Global Aesthestics, the person that we want to be and the perceptive states that we want to experience.
-- Metaphysics does not inform us what to pursue, just TO pursue.
-- This is Heideggar's Dasein... ask Sam for help on this.
-- Do an addendum on how Global Aesthetics are set, whether you should think hard about setting them. GA is a function of nature + nurture and is of course deterministic in reality. Given this, should you think hard about setting your GA? Need to find a way to justify this.
-- Tie this section into the section on taste, beauty and aesthetics. Talk about how you should be doggedly pursuing this beauty (the Greek God body, the optimal fashion, etc).
-
-- Pursuit of GA is the task the Universe assigns us, so the full instantiating of life is pursuing GA to the extreme. Chasing the Platonic with maximum rigor. 
-
-- This is also a metaphysically justified call to always be moving forward, always pursuing the "you" at t+1. (Show drawing here of perceptive state vectors closing).
-
-
-
-
-
-
+One must meditate on their Global Aesthetics in order to achieve Clarity. With Clarity in hand, one may then pursue Beauty, a dogged pursuit of Global Aesthetics. This is the call of the human. Not ordained by the Universe, for the Universe is silent, but the only pursuit that is logically commensurate with the Universe. The Universal does not tell us what to pursue, it only offers pursuit as an alternative to drowning. We cannot know if it is the correct pursuit, only that it is the only pursuit. And it is with this minor hint that we must run. We must doggedly pursue our Global Aesthetics and actualize the perceptive states that we wish to experience. We must doggedly pursue beauty, forming the excessive signifier that keeps us afloat. And while we may easily brush away the Platonic with even a mild level of metaphysical reasoning, the Platonic and its pursuit is all that we are offered and thus it is the ultimate aim. The full instantiation of life is the pursuit of beauty to its extreme, the chasing of the Platonic with maximum rigor. It is not what we do, it is that we do, for that pursuit is the only metaphysically commensurate action that we may impart upon the Universe.
 
 [^1]: Maps are tools of compression that contain knowledge about the territory. This piece is simply a map^2, a map of a map.
 
