@@ -21,7 +21,7 @@
 title: Nelson Rayl
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Meditations on subject I care about.
+  Meditations on subjects I care about.
 baseurl: "https://nelson-n.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
