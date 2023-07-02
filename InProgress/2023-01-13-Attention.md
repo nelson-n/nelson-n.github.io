@@ -7,16 +7,13 @@ categories: Metaphysics
 
 Forthcoming blog post about attention (or a lack thereof). Hold tight folks, this one is going to be good.
 
-
 **To-do**
 - Come up with a better name for the post.
-
 
 Put formally, attention is the act of subsetting a portion of the perceptive state. Casually, ...
 
 
 It always seems strange to talk about the brain given how little we know about it, but I will resort to the classic analogy with a computer as I think it is the best that we have.uses 
-
 
 Attention and Compression Theory
 1. Attention is that which is scarce.
@@ -42,8 +39,6 @@ Why do humans think in terms of a vertical stack representation, layers of abstr
 Hofstadter argues that consciousness arises from the interplay of many levels of abstraction and self-reference within the mind. He believes that the mind creates a self-referential structure through the process of "strange loops", in which higher-level concepts reference lower-level concepts and vice versa.
 
 Hofstadter also suggests that consciousness cannot be reduced to simple algorithms or physical processes, and that it emerges from the complex interplay of different levels of abstraction and self-reference within the mind. In this sense, he views consciousness as an emergent property of the mind, rather than a reducible phenomenon.
-
-
 
 Addendum: Intuition is the gradient away from despair. 
 - Given limited attention, the role of intuition is heightened.

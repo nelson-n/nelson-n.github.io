@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Map, Then the Territory"
-date:   2023-01-10 14:00:00 -0800
+date:   2023-07-01 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
