@@ -7,6 +7,12 @@ categories: jekyll update
 
 The following is a set of curated reading lists. These reading lists each follow a distinct thread that transcends time, literary style, or theme with the goal of identifying books that speak nicely to each other and ultimately offer the reader a robust understanding of a specific topic. Lists should be read in order.
 
+<br>
+
+---
+
+<br>
+
 ### Great Narrative
 
 Books that do an exceptional job of capturing human existence and its associated follies at a granular level. Readers of this list will walk away with a greater understanding and empathy for everything that occurs within the six inches of the human head.
