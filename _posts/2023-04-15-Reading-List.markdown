@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Reading Lists"
-date:   2023-04-15 14:14:35 -0800
+date:   2023-06-30 14:14:35 -0800
 categories: jekyll update
 ---
 
-The following is a set of curated reading lists. These reading lists each follow a distinct thread that transcends time, literary style, or theme. The goal of these reading lists is to identify books that speak nicely with each other and will ultimately offer the reading a robust understanding of a specific element of literature and the human experience. Lists should be read in order.
+The following is a set of curated reading lists. These reading lists each follow a distinct thread that transcends time, literary style, or theme with the goal of identifying books that speak nicely to each other and ultimately offer the reader a robust understanding of a specific topic. Lists should be read in order.
 
 ### Great Narrative
 
@@ -29,13 +29,16 @@ A set of works that illuminate the complex dualities of humanity and the nature 
 
 ### Misanthropic Malaise 
 
-A list of novels tracing the maladies of our age throughout history: decadence, alienation, nihilism, malaise. Readers of this list will walk away with a greater understanding of the darker sides of modernity and how we arrived here. **Warning** reading these books may cause irreparable damage.
+A list of novels tracing the maladies of our age throughout history: decadence, alienation, nihilism, malaise. Readers of this list will walk away with a greater understanding of the darker sides of modernity and how we arrived here. **Warning\*** reading these books may cause irreparable damage.
 
-1. *The Stranger*, **Albert Camus**, 1942 &darr;
+1. *Eugene Onegin*, **Alexander Pushkin**, 1837 &darr;
 2. *A Hero of Our Time*, **Mikhail Lermontov**, 1840 &darr;
 3. *Against Nature*, **Joris-Karl Huysmans**, 1884 &darr;
 4. *Submission*, **Michel Houellebecq**, 2015 &darr;
-5. *The Map and the Territory*, **Michel Houellebecq**, 2010 
+5. *The Elementary Particles*, **Michel Houellebecq**, 1998 &darr;
+6. *Less Than Zero*, **Bret Easton Ellis**, 1985 &darr;
+7. *The Stranger*, **Albert Camus**, 1942 &darr;
+8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
 ### The Epics
 
