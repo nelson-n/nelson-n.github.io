@@ -5,13 +5,9 @@ date:   2023-06-30 14:14:35 -0800
 categories: jekyll update
 ---
 
-The following is a set of curated reading lists. These reading lists each follow a distinct thread that transcends time, literary style, or theme with the goal of identifying books that speak nicely to each other and ultimately offer the reader a robust understanding of a specific topic. Lists should be read in order.
-
-<br>
+The following is a set of curated reading lists. These reading lists each follow a distinct thread that transcends time, literary style, or theme. The goal of each reading list is to identify books that speak nicely to each other and ultimately offer the reader a robust understanding of a specific topic. Lists should be read in order and will be periodically updated.
 
 ---
-
-<br>
 
 ### Great Narrative
 
@@ -20,8 +16,9 @@ Books that do an exceptional job of capturing human existence and its associated
 1. *Madame Bovary*, **Gustave Flaubert**, 1856 &darr; 
 2. *Anna Karenina*, **Leo Tolstoy**, 1877 &darr; 
 3. *Swann's Way*, **Marcel Proust**, 1913 &darr; 
-4. *My Struggle Books 1-7*, **Karl Knausgaard**, 2009 &darr;
-5. *American Pastoral*, **Philip Roth**, 1997 
+4. *My Struggle Books 1-3*, **Karl Knausgaard**, 2009 &darr;
+5. *The Years*, **Annie Ernaux**, 2008 &darr;
+6. *My Struggle Books 4-7*, **Karl Knausgaard**, 2010 
 
 ### On Human Nature
 
