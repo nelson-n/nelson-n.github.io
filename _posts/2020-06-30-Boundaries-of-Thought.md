@@ -5,11 +5,6 @@ date:   2020-06-30 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
-
-
-To be a great human is to live in superposition between the human and the Universal. A Kierkegaardian leap that does not leave the ground. 
-
-
 ### Foreward
 
 I now consider this piece to be deprecated. It is superseded by [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022). The Map covers the majority of the ideas presented in this piece and does so with greater precision and a much grander scope. For those who have not yet read *A Map of the Universe*, I recommend you set down this work in favor of the Map. For those who have read the Map, this tangential and admittedly juvenile piece still holds some value. In particular, the distinction between reality based sensory experience and simulation based sensory experience as well as the atypical argument for innovation remain unique ideas. This piece also discusses compression, sensory experience, and the void with a granularity that may help explicate some of what is presented in the Map. Finally, this piece explores some ideas that run orthogonal to the Map such as the role of art and the limits of abstraction. My goal is for this work to stand as a contained tangent to its grander and more rigorous successor, *A Map of the Universe*. I hope that this work offers the reader insight into boundaries of thought and a compelling argument for why these boundaries of thought must be expanded.

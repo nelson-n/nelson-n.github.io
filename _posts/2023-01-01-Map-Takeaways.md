@@ -5,6 +5,15 @@ date:   2023-07-04 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
+
+
+
+
+To be a great human is to live in superposition between the human and the Universal. A Kierkegaardian leap that does not leave the ground. 
+
+
+
+
 V0.2
 
 * Update footnote numbers.
