@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "The Map, Then the Territory"
+title:  "Of the Human and the Universal"
 date:   2023-07-04 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
+Complexity = Beauty
+-  Talk about Kolmogorov complexity
 
-
-
+Intelligence = Compression
 
 To be a great human is to live in superposition between the human and the Universal. A Kierkegaardian leap that does not leave the ground. 
+* The superposition between being a ruthless competitor and a respectful sportsman. You want to utterly annhilate your oppenent, but without them there is no dance.
+* The paradox between the underlying Reality of the Universe and how you would like to participate in the Universe.
 
-
-
-
-V0.2
+Make a compelling argument for why you have to be optimistic and overwhelmingly positive, and love the Universe.
+- Make an argument for why nihilism and discontentment have no residual.
 
 * Update footnote numbers.
 * "A border marks an inside and an outside." - Jean Luc Nancy
@@ -22,24 +23,41 @@ V0.2
     - Weave the idea of map, territory, edge cases (borders) throughout the piece.
     - "We return again to the border of the human territory."
 
-This work is an attempt to feel out the edge cases (the borders of the human) to get a sense of the actual "physical" limits placed on existence, the first principles of existence. Though we rarely exist anywhere close to the limits of this territory due to a combination of social and biological factors, these limits give us a concrete guide to existence and allow us to reason about how we should be existing within the territory of the human.
-- Mapping the border 
-We can map out the border, thereby identifying the total domain space that is the territory, but what we cannot do it prescribe where one should position themselves within that territory without falling into normative wisdom. However, by identifying the borders this piece hopes to help inform where within the territory one should live. 
-
     What is love? How does it fit into the map?
 - “Love unveils finitude” 98
 - Love = understanding that you aren’t the Universe?
 
 
-### Foreward - The Universal and the Human
+## Foreward - The Universal and the Human
 
-This piece takes the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022) and distills the findings from that paper into a set of principal takeaways. The goal of this exercise is twofold. 1) Create a list of fundamental findings that may be efficiently referenced. 2) Provide a set of insights that are grounded in a rigorous metaphysical framework.
+*"A border marks an inside and an outside."* - Jean Luc Nancy
+
+The goal of this piece is simple, identify a set of metaphysically consistent Truths that inform how humans are to act in the Universe. While this appears a noble pursuit, any student of metaphysics will quickly sense the tension and perhaps impossibility of such a task. For all that metaphysics offers, it tends to remain silent on the subject of human behavior. With this acknowledgment of likely failure in mind, we set out nonetheless.
+
+When reasoning about metaphysics and philosophy one often finds themselves nevigating between two disparate modalities, the Universal and the human. While these two modalities are inherently linked, the *"hard"* problem of perception makes it nigh impossible to bridge between these foreign territories.[^1] The Universal appears as a precise and ordered territory, governed by a minimal set of clear and rigorous laws. A vast and empty space that, like a blank canvas, has a rough form and dimension that we can make out, but whose content is empty and indiscernable to us. In contrast, the human appears as a messy tapestry of chaos, conflict, color, and complication. The territory of the human is filled with words, wisdom, emotion, perceived phenomenon, and incompleteness. It is a space colored by the totality of human history, and any clarity or order is a fleeting mirage in the face of language, morality, community, politics, and the detritus of evolution.[^2] An excess of energy where uncertainly increases linearly with examination and any search for objective truths is met with confusion and disappointment. 
+
+The territory of the human fits somewhere inside the vast expanse of the Universal, and this piece focuses on the border between these two foreign lands, the place where the rigor and clarity of the Universal meets the messiness and complexity of the human. The boundary where we may attempt to cut through the confusion and circuity of the human towards a clarity that we can cite as *Universally* consistent, a clarity that we may carry with us through the disorienting territory of the human. We cannot map nor know the territory of the Universal, but by mapping the border between the Universal and the human we may identify the total domain space that is the human. While this does not allow us to make statements about where in that domain space we should fall, we may use it to make metaphysically correct statements that inform where in the domain space we place ourselves.
+
+In search of the border between the human and Universal, this piece builds upon the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022), taking the findings of these papers as a guide for metaphysical correctness. This piece does not make any arguments, does not try to prove itself, and does not reference anything other than the *Map*. I do not hope to convince anyone of anything, I merely wish to think through the implications of what has already been posited in the *Map* and clarify things for myself and those who have the same insights as me. For rigorous proofs of any of the statements made below, one may refer to the full text of *A Map of the Universe*. 
+
+With that, we set off to map the boundary between the human and the Universal.
+
+
+
+
+
+
+
+
+
+
+
+
+**OLD**
 
 Why engage in such a *vain* pursuit?[^1] For one, philosophy and metaphysics is *naturally* complicated and often results in the running of intellectual circles.[^1] While this is one of the problems that we attempt to address in *A Map of the Universe*, the constraints of human compute and memory often result in one having to tediously re-examine all accumulated knowledge and priors when attempting to address any problem with a philosophical bent to it. By compressing a set of philosophical findings to a level that may be readily accessed, this post serves a way to remain intellectually consistent without having to repeat past work. In short, this is a compression exercise. Just as all of human existence is a compression exercise.[^1] 
 
-Second, for all that philosophy and metaphysics offers, it rarely informs how one should act. When reasoning about philosophy and metaphysics one often finds themselves nevigating between two disparate modalities, the Universal and the human. While these two modalities are inherently linked, it is difficult to bridge between these foreign territories. The Universal appears to us as a vast and ordered land, characterized by a minimal set of clear and rigorous laws. However, due to the limitations of the language we can only reason about the rough boundaries of these laws, and calls to the Universal for answers are returned with silence and indifference. Meanwhile, the human deals in the domain of words, wisdom, perceived phenomenon, and incompleteness. It is a territory colored by the totality of human history, and any clarity is a fleeting mirage in the face of language, morality, community, politics, and the detritus of evolution.[^1] An excess of energy where uncertainly increases linearly with examination, the human is no place to go looking for objective truths. This piece attempts to draw a clear connection between the Universal and the human at the places where the laws of the Universal share a boundary with the phenomena of the human. An attempt to cut through the confusion and circuity of the human towards a clarity that we can cite as *Universally* true and carry with us through the disorienting territory of the human. Given that this work attempts to clearly demarcate where the Universal and the human stand apart and where they overlap, these concepts of "at the human level" and "at the Universal level" continually recur.
-
-This piece does not make any arguments, does not try to prove itself, and does not reference anything other than the *Map*. I do not hope to convince anyone of anything, I merely wish to think through the implications of what has already been posited in the *Map* and clarify things for myself and those who have the same insights as me. For rigorous proofs of any of the statements made below, one may refer to the full text of *A Map of the Universe*. 
+For all that philosophy and metaphysics offers, it rarely informs how one should act. When reasoning about philosophy and metaphysics one often finds themselves nevigating between two disparate modalities, the Universal and the human. While these two modalities are inherently linked, it is difficult to bridge between these foreign territories. The Universal appears to us as a vast and ordered land, characterized by a minimal set of clear and rigorous laws. However, due to the limitations of the language we can only reason about the rough boundaries of these laws, and calls to the Universal for answers are returned with silence and indifference. Meanwhile, the human deals in the domain of words, wisdom, perceived phenomenon, and incompleteness. It is a territory colored by the totality of human history, and any clarity is a fleeting mirage in the face of language, morality, community, politics, and the detritus of evolution.[^1] An excess of energy where uncertainly increases linearly with examination, the human is no place to go looking for objective truths. This piece attempts to draw a clear connection between the Universal and the human at the places where the laws of the Universal share a boundary with the phenomena of the human. An attempt to cut through the confusion and circuity of the human towards a clarity that we can cite as *Universally* true and carry with us through the disorienting territory of the human. Given that this work attempts to clearly demarcate where the Universal and the human stand apart and where they overlap, these concepts of "at the human level" and "at the Universal level" continually recur.
 
 The principal ideas dicussed are as follows:
 
@@ -55,19 +73,19 @@ Words are not functional objects. Words are aesthetic objects.
 
 
 
-### On the Meaning of Life
+## On the Meaning of Life
 
 "Philosophy is the process of imagining an ideal Universe in the attempt to establish purpose."
 
 At the Universal level (Reality), there is no meaning of life, just the Universe. As an observer of the Universe, one cannot cannot "understand" (perceive) the Universe without necessarily compressing it via language. Language introduces inaccuracies and negates any chance of knowing the meaning of life or the Universe. We necessarily cannot know the meaning of life, for the meaning is the totality which we cannot contain. On a human level, the meaning of life is simply a function of the Global Aesthetics (the preferred perceptive states) chosen by a given human and is necessarily different for each person. With this in mind, one should think very hard about their Global Aesthetics and pursue that which is meaningful with respect to their Global Aesthetics. 
 
-### Comportment toward Determinism
+## Comportment toward Determinism
 
 "What's happened, happened, which is an expression of faith in the mechanics of the Universe."
 
 The Universe is discrete and finite, thus it is necessarily deterministic. Given this Reality, how should a human comport themselves towards this determinism? As is commonly the case with metaphysics, theory can only take us so far. Following the pattern of many of the takeaways in this piece, there are a set of higher level Truths about the Universe such as the fact that it is deterministic, but within the domain space defined by these Truths humans are left with no guidance other than to do as we see fit. At the extreme one may choose to internalize that the Universe is deterministic and by logical extension enjoy the benefits of feeling no stress, obligation, or strife. However, we are also by default capable of creating the illusion of free will through our inability to perfectly model the Universe. If one chooses to believe in freedom, then one should optimize over the activities that produce the illusion of free will and enjoy the feelings of freedom and empowerment that the illusion of free will offers[^2]. And with all things, one's choice of how much to lean into determinism or the illusion of free will should be a function of their Global Aesthetics.[^3] In this example we also observe the often present conflict between the Universal and the human. One may know and believe that the Universe is deterministic, yet in the realm of the human we can never fully internalize this fact into our thought and action for at present it appear incommensurate with our biological disposition. Even if we uncover the clean laws of the Universal, these laws often clash with the human territory that we have inherited.
 
-### The Implications of Language and Compression
+## The Implications of Language and Compression
 
 “From the beginning, the Universe signified the totality of what humankind can expect to know about it. What people call the progress of the human mind and, in any case, the progress of scientific knowledge, could only have been and can only ever be constituted out of processes of correcting and recutting of patterns, regrouping, defining relationships of belonging and discovering new resources, inside a totality which is closed.” - Giorgio Agamben, *Taste*
 
@@ -77,17 +95,19 @@ To begin, due to compression humans cannot know objective truths. One implicatio
 
 With the dismantling of objective truths also occurs the dismantling of hierarchies, and the destruction of such hierarchies has radical implications for human comportment towards the philosophical and ethical. To begin, any statement of aesthetic superiority is rendered unfounded[^5]. Without any claim to aesthetic superiority, one also loses any justification for imposing a normative belief structure upon anyone else. This informs a laissez-faire system of political and ethical beliefs by which one's will should not be imparted upon another[^6]. This is not to say that you should not have a belief set or avoid sharing tastes and preferences. To the contrary, you should have a rigorous set of beliefs and tastes that is a thoughtful reflection of your Global Aesthetics. Just be aware that this is all it is, a reflection of some environmental, social, cultural matrix in which you were arbitrarily inculcated, and that to favor one belief set or forcefully impose it upon another would be metaphysically unfounded.
 
+Though then again, if hierarchical thinking advances your Global Aesthetics then by all means. You will just be metaphysically incorrect.
+
 Given that language will necessary fail us, one should also tune their comportent to self accordingly. In dealing with the shortcomings of language, one will not be able to accurately capture their own internal states (feelings) let alone share them with others. Act, but do not speak. State your preferences, but do not explain them. The disappointed man speaks. Through acting in accordance with one's Global Aesthetics your true internal states reveal themselves. 
 
 And yes, this entire section (and post for that matter) is self-referentially ironic[^7].
 
-### Intelligence = Modeling = Compression
+## Intelligence = Modeling = Compression
 
 *Note: Is this at odds with the earlier statement, "Advancements in knowledge may be considered beautiful in that they represent a more accurate model of the patterns that the Universe produces".
 
 Intelligence is the ability to model the patterns produced by the Universe, and compression is the means by which modeling occurs. By logical extension, intelligence is the ability to compress. The takeaway from this is that it is all about modeling. Everything from human vision to conciousness to multiparameter algorithms to y = ax + b are models specified in a given language to compress the patterns generated by the Universe. That which compresses the most is the most intelligent. If one seeks the aesthetic value of intelligence as an aspect of their Global Aesthetics, then they should focus on the set of models that compress the patterns of the Universe the most.
 
-### Words in Equilibrium
+## Words in Equilibrium
 
 “We could not reach the final object of knowledge without the dissolution of knowledge, which aims to reduce its object to the condition of subordinated and managed things. The ultimate problem of knowledge is the same as that of consumption. No one can both know and not be destroyed; no one can both consume wealth and increase it.” - Georges Bataille
 
@@ -105,11 +125,15 @@ It is important that words and knowledge are approached with an understanding of
 
 - Given that knowledge and words go to 0, value knowledge for its aesthetic beauty. Clarity to optimize over food, music, views, etc, this is all that matters when words go to 0. There is no point in understanding, just feel. 
 
-### The Universe Individuated
+## The Universe Individuated
 
 As perceptive agents modeling signals from the Universe via language, reality is entirely a function of our own modeling processes. This raises the question of how one should comport themselves to the boundary case that we can render reality as we wish. In practice we are constrained in how we model aspects of Reality such as our perception of the physical environment due to a lack of complete plasticity in the models we use to perceive the Universe (or put colloquially, biological constraints make it difficult to un-see a brick wall). However, schizophrenia, psychedelic drugs, and other phenomena are evidence that there is nothing innate or pure about the way that the median human perceives reality. Setting aside these edge cases, we still maintain a large amount of autonomy over how we comport ourselves towards the signals that the Universe produces. Phenomenologically, this is something that humans are intimately familiar with. When we feel emotional states of joy or bliss, the world is perceived as lighter, louder, and warmer. When we feel states of malaise, anger, or disquiet, the world take on an altogether darker hue. In these cases it is the not the environment that is in flux, but rather the human observer that is in flux. In this sense, one should think of the environment (the Universe) as static and the internal states and appraisals of the human as what is in flux.
 
 Given this boundary, we are left with some *autonomy* to perceive Reality in a manner that is commensurate with our preferences and global aesthetics. It is thus the duty of the individual to adopt a set of practices that helps to bring their perceived reality in line with their Global Aesthetics. The shape of this practice is left to the individual, but it may take the form of a referent, a reminder, a specific environment, meditation, or any other trigger that alters perception.
+
+* Given that the world is how we perceive it, we must surely be optimists. The Universe is fixed and our perception of it is that which is in flux. Optimism allows us to unRealistically skew this perception in a positive direction. Here we observe the paradox of the Human and the Universal again. We know that Reality is deterministic and that optimism and pessimism are moot emotions who at best take the form of some distribution with $\mu = 0$, yet by adopting optimism the zero sum game of Reality becomes skewed in our favor. The prior through which we view the world become the world, and thus these priors should reflect ones Global Aesthetics.
+    * Make a stronger argument in favor of optimism.
+    * It does not matter that optimism will have a low level of fit with reality, as long as one remains optimistic in the face of many inevitable defeats (for predicted rates of success ex-ante were unRealistically high), then one has beaten the game (Reality). They have on net mapped Reality (fixed) to a better set of perceptive states.
 
 ## Implications of an Inconsistent Self
 
@@ -125,7 +149,7 @@ The ephemeral nature of Self gives us a strong boundary from which we can draw c
 
 Despite this relative freedom that the Universe grants us, the ability to maintain a consistent self is an important feature for accomplishing many of the objectives that have been historically favored by human society: achieving long-term goals, maintaining inter-human relationships, and long-term planning based on a set of consistent tastes. To the degree that these objectives are commensurate with ones Global Aesthetics, one should lean into practices and mantras that consistently remind oneself of their constructed Self. The form of these practices is again left to the individual, and may overlap with practices aimed at autonomously altering the way in which you perceive the Universe. And if the practice involves compiling a set of takeaways about the nature of the Universe to remind yourself of a few things, go ahead.
 
-### On Aesthetics, Clarity, and Beauty
+## On Aesthetics, Clarity, and Beauty
 
 The above sections have worked to clearly identify the boundaries of the human realm and have typically taken the form of: this is the way things are in Reality, but Reality does not prescribe normative reccomendations, so with this in mind one should pursue that which is commensurate with their Global Aesthetics. While the following section will not attempt to prescribe a normative Global Aesthetics, it studies where aesthetics come from and offers a way to think about aesthetics.
 
@@ -135,7 +159,7 @@ Once again, the best we can do is to give a definition of aesthetics and define 
 
 If Beauty is a pursuit, an act of moving in a specific direction, the question remains of what this direction should be. While no normative direction can be prescribed, we can assert that this direction ought to be well-defined. This is Clarity. A well-defined understanding of one's Global Aesthetics, a certainty about the direction in which one should move in the pursuit of Beauty. If Beauty is the only pursuit, then we are better served if this pursuit follows a linear path instead of one which wanders. While advice on how to achieve Clarity is beyond the scope of this work, within the framework developed in this piece we can assert the importance of Clarity and its role in actualizing Beauty.
 
-# How to Act in a Metaphysically Silent Universe
+## How to Act in a Metaphysically Silent Universe
 
 Any call to the Universal is met with silence as its meaning is nothing more than that which it is, and that which it is cannot be captured by anything other than the Universe itself. This leaves us in a metaphysically silent Universe in which the only object we have to cling is a set of Global Aesthetics imparted upon us. While our Global Aesthetics appears a shaky lifeboat amid a sweeping sea of silence, it is all that we have to cling to, and in a metaphysically precarious Universe the best that we can do is cling on tightly.
 
@@ -143,13 +167,31 @@ Clinging to and striving towards our Global Aesthetics is how we are to act in a
 
 One must meditate on their Global Aesthetics in order to achieve Clarity. With Clarity in hand, one may then pursue Beauty, a dogged pursuit of Global Aesthetics. This is the call of the human. Not ordained by the Universe, for the Universe is silent, but the only pursuit that is logically commensurate with the Universe. The Universal does not tell us what to pursue, it only offers pursuit as an alternative to drowning. We cannot know if it is the correct pursuit, only that it is the only pursuit. And it is with this minor hint that we must run. We must doggedly pursue our Global Aesthetics and actualize the perceptive states that we wish to experience. We must doggedly pursue beauty, forming the excessive signifier that keeps us afloat. And while we may easily brush away the Platonic with even a mild level of metaphysical reasoning, the Platonic and its pursuit is all that we are offered and thus it is the ultimate aim. The full instantiation of life is the pursuit of beauty to its extreme, the chasing of the Platonic with maximum rigor. It is not what we do, it is that we do, for that pursuit is the only metaphysically commensurate action that we may impart upon the Universe.
 
+## Afterword
+
+And as always the following disclaimer applies. Despite sacrificing scope to make strong/defensible claims, and despite appearing to be built on a rigorous metaphysical framework, this work and the statements/findings within are but a rickety ladder that are unverifiable and very well could represent just another set of aesthetic judgments. Despite an intense desire to live by clarity and truth with respect to the metaphysical laws of the Universe, this too is a ladder that must be thrown away. For anyone with the attention or brain to folow along will surely be able to arb away/cast doubt into anything that has been postulated. So we press on, feeling a little better about our action that we did before the map takeaways, but altogether not particularly good about anything at all.
+- Cite Wittgenstein
+
+
+
+# Footnotes
+
+[^1]: One could make a compelling argument that it *is* impossible to bridge between these two territories, thus rendering this entire piece a fool's errand. I am open to this possibility.
+
+[^2]: "No matter what you will do a wise man will come along and ..." - Zizek
+or ...
+[^2]: "I am generally opposed to wisdom." - Zizek
+
+
+
+---
+
+
+
 [^1]: Maps are tools of compression that contain knowledge about the territory. This piece is simply a map^2, a map of a map.
 
 [^1]: For the search for metaphysical truths is performed both in *vain* and in *vanity*.
 
-[^1]: "No matter what you will do a wise man will come along and ..." - Zizek
-or ...
-[^1]: "I am generally opposed to wisdom." - Zizek
 
 [^1]: This being a result of the fact that philosophy generally starts uses natural language and broadly defined concepts to get its point across (as opposed to using a language such as mathematics which is tightly scoped to the domain of concepts where you can prove all the statements that you make).
 
