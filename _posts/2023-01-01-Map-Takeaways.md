@@ -5,7 +5,7 @@ date:   2023-07-04 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
-## Foreward - The Universal and the Human
+### Foreward - The Universal and the Human
 
 *"A border marks an inside and an outside."* - Jean Luc Nancy
 
@@ -23,19 +23,19 @@ With that, we set off to map the boundary between the human and the Universal.
 
 Perception of the Universe is all that there is. The alternative to this is nothingness: a state of not perceiving all that there is. Thus if one finds the states presented by the Universe preferable to nothingness, than one must live in profound gratitude. Given that this is the revealed preference of all who are living, gratitude is an aesthetic which we can claim to be metaphysically consistent. Pray often and pray forcefully, for we are lucky that there exists anything at all.
 
-## On the Meaning of the Universe
+### On the Meaning of the Universe
 
 At the Universal level (Reality), there is no meaning, only the Universe. As an observer of the Universe, one cannot "understand" (perceive) the Universe without necessarily compressing it via language. Language introduces inaccuracies and negates any chance of knowing the meaning of the Universe. We necessarily cannot know the meaning of Universe, for the meaning is the totality which we cannot contain. The negation of our ability to ever find inherent meaning in the Universe has grand implications. It is first and foremost an acceptance of the futility of the human project. We will never be able to accomplish that which our existence demands from us: understand the Universe. And no matter the degree of technological or intellectual advance, the pursuit of inherent meaning will be a chase towards an unattainable limit. From theory we are able to know that our ability to know the Universal will decrease asymptotically as we approach the limit of the Universal. Given this boundary condition we may know that any claims of inherent meaning are false and any pursuit of inherent meaning will necessarily fail. Usually theory can take us only so far, but in this case it takes to the end and allows us to set a firm limit. So where does this leave us? The necessary boundary between the human and the Universal leaves us with the space of the human in which to scrap for meaning. On a human level, meaning is simply a function of the Global Aesthetics (preferred perceptive states) chosen by a given human and is necessarily different for each person. With this in mind, one should think very hard about their Global Aesthetics and pursue that which is meaningful with respect to their Global Aesthetics. Equally, one should understand that this meaning is not inherent nor Universal, and thus should not lose sleep wondering if they are correct nor take offence at competing views of meaning. 
 
 You may find pockets of meaning and purpose in the territory of the human, but remember these pockets of meaning are nothing more than a constructed game, and that this game that you play is not moving towards anything absolute. And that the collective force or humanity, or more broadly intelligence, wanders aimlessly with respect to the ultimate goal of attaining inherent meaning. This should not change how you act day to day, but it should color how you comport yourselves towards this action.
 
-## Comportment Towards Determinism
+### Comportment Towards Determinism
 
 "What's happened, happened, which is an expression of faith in the mechanics of the Universe."
 
 The Universe is discrete and finite, thus it is necessarily deterministic. Given that the domain of the human is situated within the domain of the Universal, it is also necessarily deterministic. Having established this Reality, how should a human comport themselves towards determinism? As is commonly the case with metaphysics, theory can only take us so far. Following the pattern of many of the takeaways in this piece, there are a set of higher level Truths about the Universe such as its deterministic nature, but within the domain space defined by these Truths humans are left with no guidance other than to act as we see fit. At the extreme, one may choose to internalize that the Universe is deterministic and by logical extension enjoy the benefits of feeling no stress or strife. However, we are by default capable of creating the illusion of free will through our inability to perfectly model the Universe. If one chooses to believe in free will, then one should optimize over the activities that produce the illusion of free will and experience the freedom and empowerment that the illusion of free will offers[^2]. And with all things, one's choice of how much to lean into determinism or the illusion of free will should be a function of their Global Aesthetics.[^3] Many will end up somewhere between these two extremes, battling between our ability to generate illusions of free will and the rational mind telling us that our lives must surely be deterministic. This internal discontinuity highlights an often present conflict between the Universal and the human. One may know and believe that the Universe is deterministic, yet in the realm of the human it is nigh impossible to fully internalize this fact into our thought and action as it is incommensurate with our biological disposition. Epochs of evolution has wired us with truths that are not metaphysically correct, causing us to forget or turn away from Truths we may deduce from precise, logical consideration of the Universe. In examining the boundary between the human and the Universal, we often find that the laws of the Universal clash with what we have inherited from the territory of the human. The degree to which we rebel against the human in pursuit of clarity is left to the user, though I imagine most readers of this piece will find it a battle worth fighting.
 
-## The Implications of Language and Compression
+### The Implications of Language and Compression
 
 “From the beginning, the Universe signified the totality of what humankind can expect to know about it. What people call the progress of the human mind and, in any case, the progress of scientific knowledge, could only have been and can only ever be constituted out of processes of correcting and recutting of patterns, regrouping, defining relationships of belonging and discovering new resources, inside a totality which is closed.” - Giorgio Agamben, *Taste*
 
@@ -49,7 +49,7 @@ The limits of language also inform how we should tune our comportment to self an
 
 And yes, this entire section (and piece for that matter) is self-referentially ironic[^7].
 
-## Words in Equilibrium
+### Words in Equilibrium
 
 “We could not reach the final object of knowledge without the dissolution of knowledge, which aims to reduce its object to the condition of subordinated and managed things. The ultimate problem of knowledge is the same as that of consumption. No one can both know and not be destroyed; no one can both consume wealth and increase it.” - Georges Bataille
 
@@ -69,13 +69,13 @@ Given these Truths, it is important that words and knowledge are approached with
 
 As entities that model signals generated by the Universe, our reality is entirely a function of our own modeling processes. As it pertains to our perception, the Universe may be thought of as the static object and our perception of the world as what is in flux. While this particular boundary between the Universal and the human is dictated to some degree by certain physical and biological constraints, we are left with a large degree of *autonomy* to perceive Reality in a manner of our choosing. It naturally follows that we ought to utilize this *autonomy* to perceive reality in a manner that is commensurate with our preferences and Global Aesthetics, and it is thus the duty of the individual to adopt practices that shift perceived reality in line with their Global Aesthetics. The shape of this practice is left to the individual, but it may take the form of a referent, a reminder, a specific environment, a meditation, or any other trigger that alters perception. In altering how we perceive the Universe, we may asymmetrically slant the deck in our favor. This stacking of the deck is an almost necessary counterbalance to the fact that from inception the Universe is slanted against us. We may never know Truth nor find inherent meaning, and any thorough reasoning will only lead to metaphysical disappointment and darkness. In this sense the Universe deals an unwinnable hand to anyone dares to seek out Truth, but in carefully observing the rules of the game Reality presents to us a trick by which one may if not win, at least stay in the game. As if with a wink, the Universe extends a lifeline to those who have thought through this problem, for examination of the Universal reveals both its cruel nature but also how we may exploit its rules to play an unwinnable game. Optimism always, for it is the only antidote. 
 
-## Implications of an Inconsistent Self
+### Implications of an Inconsistent Self
 
 "I am not the same person that I was yesterday."
 
 The Self is not a concrete, tangible, or consistent object. It is instead a set of models representing the behavior of an agent, in short, a compressed representation of how an agent will model a given environment.[^10] The Self is not a sacred object belonging to an individual, nor is it stable over time. A representation of Self at time *t* is necessarily different from the representation at time *t+1* as one forgets what they believe, what they have accomplished, and what they represent. One day you awake a king, the next a peasant. Humans have evolved to maintain a fairly consistent Self as a necessary feature for navigating the local environment (one can imagine that social organization, labor, and survival would be quite difficult if we embodied different representations of Self each day). However, this consistent thread of Self that we generally take as given is a function of our inability to model, and if we could perfectly model the Universe we would realize that the Self is no more than an unstable representation that is inconsistent between time periods. The ephemeral nature of Self gives us a strong boundary from which we can draw conclusions about the nature of the human condition. Though these conclusions are upsetting to that which we often hold in the highest regard, the Self, they also liberate us from the demanding need to maintain a representation and the inevitable pain of this representation crumbling. Striving for a truly concrete and consistent Self eventually results in despair and anguish as the Self is de facto inconsistent, and attempts to cling onto a sacred sense of self are akin to swimming against the tides of Reality. In short, do not take your *self* seriously. In accepting this Reality and overcoming the Self, one unlocks the ability to choose what aspects of Self they identify with. Here is where the Self, like all findings in this piece, connects back to Global Aesthetics. In overcoming the Self we are free to form a representation of Self that is commensurate with what we are striving to achieve, our Global Aesthetics. The Self is a constructed tool, and it is useful if not altogether necessary for accomplishing many of the objective historically favored by humans: achieving long-term goals, maintaining inter-human relationships, and long-term planning based on a set of consistent tastes. If these objectives fall within one's Global Aesthetics, then one should form a representation of Self that facilitates the realization of these Global Aesthetics and adopt the practices or mantras necessary to maintain this constructed Self. But remember that this is all that it is, a representation that has been constructed to achieve an end. As is the case with knowledge, one must undergo the process of understanding and destroying the Self in order to overcome it and continue forward with the understanding that the Self is nothing more than a constructued representation.
 
-## On Aesthetics, Clarity, and Beauty
+### On Aesthetics, Clarity, and Beauty
 
 In examining the the boundary between the human the Universal one consistently finds that Reality defines a set of limits that constrain the territory of the human, but Reality does not prescribe normative recommendations and within these limits one is left to pursue that which is commensurate with their Global Aesthetics. The question then naturally arises of how we should think about these aesthetics. 
 
@@ -89,7 +89,7 @@ Aesthetics is the only object, Beauty the only pursuit.
 
 If Beauty is a pursuit, an act of moving in a specific direction, the question remains of what this direction should be. While no normative direction can be prescribed, we can assert that this direction ought to be well-defined. This is Clarity. A well-defined understanding of one's Global Aesthetics, a certainty about the direction in which one should move in the pursuit of Beauty. While advice on how to achieve Clarity is beyond the scope of this work, within the framework developed in this piece we can assert the importance of Clarity and its role in actualizing Beauty.
 
-## How to Act in a Metaphysically Silent Universe
+### How to Act in a Metaphysically Silent Universe
 
 "The mystery of life isn't a problem to solve, but a reality to experience. A process that cannot be understood by stopping it. We must move with the flow of the process. We must join it." - Frank Herbert
 
@@ -99,7 +99,7 @@ Striving towards our Global Aesthetics is how we are to act in a metaphysically 
 
 Doggedly press forward, for in a Universe devoid of nobility, some work of noble note may yet be done.
 
-## A Ballerina's Leap
+### A Ballerina's Leap
 
 "He constantly makes the movements of infinity, but he does this with such correctness and assurance that he constantly gets the finite out of it, and there is not a second when one has a notion of anything else. It is supposed to be the most difficult task for a dancer to leap into a definite posture in such a way that there is not a second when he is grasping after the posture, but by the leap itself he stands fixed in that posture. Perhaps no dancer can do it - that is what this knight does." - Soren Kierkegaard 
 
@@ -113,11 +113,11 @@ Kierkegaard proposed the metaphor of a ballerina's leap when describing the mann
 
 "Most people live dejectedly in wordly sorrow and joy; they are the ones who sit along the wall and do not join in the dance. The knights of infinity are dancers and possess elevation." - Soren Kierkegaard
 
-## Afterword
+### Afterword
 
 Despite sacrificing scope in order to make strong claims that are metaphysically consistent, and despite appearing to be built on a rigorous metaphysical framework, this piece and the statements made within are but a rickety ladder placed upon a shaky scaffolding, and could very well all just represent another set of aesthetic judgments. Despite an intense desire to live in Universal clarity and hold oneself to the light of Truth, this work too is ultimately a ladder that must be climbed and then thrown away, for certainly anyone who has attended to these problems will be able to cast doubt on all that has been postulated here. So with this disclaimer of hubris we press on, feeling a little better about our actions than we did yesterday, but altogether not particularly good about anything at all.
 
-# Footnotes
+### Footnotes
 
 [^1]: One could make a compelling argument that it *is* impossible to bridge between these two territories, thus rendering this entire piece a fool's errand. I am open to this possibility.
 
@@ -125,11 +125,7 @@ Despite sacrificing scope in order to make strong claims that are metaphysically
 or ...
 [^2]: "I am generally opposed to wisdom." - Zizek
 
-
-
 ---
-
-
 
 [^1]: Maps are tools of compression that contain knowledge about the territory. This piece is simply a map^2, a map of a map.
 
