@@ -5,7 +5,7 @@ date:   2023-07-04 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
-### Foreward - The Universal and the Human
+### Foreward
 
 *"A border marks an inside and an outside."* - Jean Luc Nancy
 
@@ -16,8 +16,6 @@ When reasoning about metaphysics and philosophy one often finds themselves nevig
 The territory of the human fits somewhere inside the vast expanse of the Universal, and this piece focuses its attention on the border between these two foreign lands, the place where the rigor and clarity of the Universal meets the chaos and noise of the human. It is at this boundary where we may attempt to cut through the confusion and circuity of the human towards a clarity that we can cite as *Universally* consistent, a clarity that we may carry with us through the disorienting territory of the human. We cannot map nor know the territory of the Universal, but by mapping the border between the Universal and the human we may identify the total domain space that is the human. While this does not allow us to make statements about where in that domain space we should fall, we may use it to make metaphysically correct statements about the properties of the human domain and inform where in the domain space we place ourselves. Additionally, this map leaves us with a tool for cutting the noise and chaos of the human down to a minimal set of propositions in which we may believe. A map of what is certain. The rest is noise.
 
 This piece builds upon the framework of [*A Map of the Universe*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077540) (Berger & Rayl 2022), taking the findings of that paper as a guide for metaphysical correctness. This piece does not make any argument and does not try to prove itself. I do not hope to convince anyone of anything, I merely wish to think through the implications of what has already been posited in the *Map* and clarify things for myself and those who have the same insights as me. For rigorous proofs of any of the statements made below, one may refer to the full text of *A Map of the Universe*. 
-
-With that, we set off to map the boundary between the human and the Universal.
 
 ### The Counterfactual is Nothingness
 
