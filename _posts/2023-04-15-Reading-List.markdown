@@ -9,6 +9,8 @@ The following is a set of curated reading lists which each follow a distinct thr
 
 ---
 
+<br>
+
 ### Great Narrative
 
 Books that do an exceptional job of capturing human existence and its associated follies at a granular level. Readers of this list will walk away with a greater understanding and empathy for everything that occurs within the six inches of the human skull.
@@ -26,6 +28,8 @@ Books that do an exceptional job of capturing human existence and its associated
 11. *My Struggle Book 5*, **Karl Knausgaard**, 2010 &darr;
 12. *My Struggle Book 6*, **Karl Knausgaard**, 2011
 
+<br>
+
 ### On Human Nature
 
 A set of works that illuminate the complexity of humanity and the nature of good and evil. Readers of this list will learn things about the world, not necessarily nice things.
@@ -35,6 +39,8 @@ A set of works that illuminate the complexity of humanity and the nature of good
 3. *Crime and Punishment*, **Fyodor Dostoevsky**, 1866 &darr; 
 4. *Heart of Darkness*, **Joseph Conrad**, 1899 &darr;
 5. *The Brothers Karamazov*, **Fyodor Dostoevsky**, 1880
+
+<br>
 
 ### Misanthropic 
 
@@ -49,6 +55,8 @@ A list of novels tracing the maladies of our age throughout history: decadence, 
 7. *The Stranger*, **Albert Camus**, 1942 &darr;
 8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
+<br>
+
 ### Philosophy and Metaphysics: From Beginning to Endgame
 
 A list of works necessary to traverse many of the principal findings of philosophy and metaphysics. Begins with a post-Platonic primer on Western philosophy before building up to Wittgenstein, after which nothing else need be said.
@@ -59,6 +67,8 @@ A list of works necessary to traverse many of the principal findings of philosop
 3. *The Inoperative Community*, **Jean-Luc Nancy**, 1986 &darr;
 3. *Being and Time*, **Martin Heidegger**, 1921 &darr;
 4. *Tractatus Logico-Philosophicus*, **Ludwig Wittgenstein**, 1921
+
+<br>
 
 ### The Epics
 
