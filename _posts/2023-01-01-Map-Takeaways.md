@@ -9,11 +9,9 @@ Gratitude always, for the counterfactual is nothing.
 
 Meaning is relative to aesthetics.
 
-Words and knowledge are aesthetic objects.
+Words are aesthetic objects, and in the equilibrium words go to zero.
 
-In the equilibrium, all words go to zero. In the equilibrium, all knowledge goes to zero.
-
-By destroying knowledge, one may know and not be destroyed.
+By destroying knowledge, one may both know and not be destroyed.
 
 We may think ourselves into ...
 
