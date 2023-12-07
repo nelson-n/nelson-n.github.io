@@ -49,6 +49,17 @@ A list of novels tracing the maladies of our age throughout history: decadence, 
 7. *The Stranger*, **Albert Camus**, 1942 &darr;
 8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
+### Philosophy and Metaphysics: From Beginning to Endgame
+
+A list of works necessary to traverse many of the principal findings of philosophy and metaphysics. Begins with a post-Platonic primer on Western philosophy before building up to Wittgenstein, after which nothing else need be said.
+
+1. *On the Genealogy of Morals*, **Friedrich Nietzsche**, 1887 &darr;
+2. *Fear and Trembling*, **Søren Kierkegaard**, 1843 &darr;
+3. *The Accursed Share*, **Georges Bataille**, 1949 &darr;
+3. *The Inoperative Community*, **Jean-Luc Nancy**, 1986 &darr;
+3. *Being and Time*, **Martin Heidegger**, 1921 &darr;
+4. *Tractatus Logico-Philosophicus*, **Ludwig Wittgenstein**, 1921
+
 ### The Epics
 
 A set of works that transcend the description of story, book, or novel to achieve the status of an epic. Readers of this list will walk away understanding that within the totality of society, individuals exist within the superposition of insignificance and absolute importance. 
