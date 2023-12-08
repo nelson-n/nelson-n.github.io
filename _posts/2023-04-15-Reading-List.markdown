@@ -2,7 +2,7 @@
 layout: post
 title:  "Reading Lists"
 date:   2023-06-30 14:14:35 -0800
-categories: jekyll update
+categories: Literature
 ---
 
 The following is a set of curated reading lists which each follow a distinct thread. These lists transcends time, literary style, or theme with the goal of identifying books that speak nicely to each other and ultimately offer the reader a broad understanding of a specific theme. Lists should be read in order and will be periodically updated.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Of the human and Universal"
-date:   2023-12-31 14:00:00 -0800
+date:   2023-12-01 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
