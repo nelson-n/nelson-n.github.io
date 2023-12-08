@@ -1,4 +1,2 @@
 
-### [Meditations on subjects I care about.](https://nelson-n.github.io/)
-
-[Philosophy, Metaphysics, Literature, Finance, Mathematics, Computer Science]
+Meditations on subjects I care about: [Blog](https://nelson-n.github.io/)
