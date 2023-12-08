@@ -65,7 +65,7 @@ A list of works necessary to traverse many of the principal findings of philosop
 2. *Fear and Trembling*, **Søren Kierkegaard**, 1843 &darr;
 3. *The Accursed Share*, **Georges Bataille**, 1949 &darr;
 3. *The Inoperative Community*, **Jean-Luc Nancy**, 1986 &darr;
-3. *Being and Time*, **Martin Heidegger**, 1921 &darr;
+3. *Being and Time*, **Martin Heidegger**, 1927 &darr;
 4. *Tractatus Logico-Philosophicus*, **Ludwig Wittgenstein**, 1921
 
 <br>

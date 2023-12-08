@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of the Human and the Universal"
+title:  "Of the human and Universal"
 date:   2023-07-04 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
@@ -62,6 +62,8 @@ Language is compression, and as a result of compression humans cannot know objec
 The omnipresence of language and compression in the territory of the human also negates the possibility of objective truths. With this comes the destruction of any hierarchies, and the destruction of hierarchies has radical implications for human comportment towards the philosophical and ethical. To begin, any statement of aesthetic superiority is rendered unfounded. Without claim to aesthetic superiority, any justification for imposing a normative or ethical belief structure upon anyone else is lost. If we are to remain metaphysically consistent, one must adopt a *libertas* system of political and ethical beliefs by which one's will should not be imparted upon another. This is not to say that one should abstain from normative beliefs and preferences. To the contrary, one is called to craft a rigorous set of beliefs and tastes that is a thoughtful reflection of one's Global Aesthetics. However, one must remain aware that this is just a reflection of some environmental, social, cultural matrix in which one is arbitrarily inculcated, and to assert an aesthetic hierarchy or impose this hierarchy upon another would be metaphysically unfounded. This boundary between the Universal and the human is one of the rare places where we may draw a direct connection between metaphysical Truth and how we should act if we wish to live a metaphysically consistent life.
 
 The limits of language also inform how we should tune our comportment to Self and others. Trapped within the shortcomings of language, one will not be able to accurately capture their own internal states, let alone share them with others in a manner that is anything other than a gross approximation of Reality. Considering this, the most accurate expression we can hope for is to act, but not speak. To state one's preferences, but not to explain them. Through acting in accordance with one's Global Aesthetics a closer approximation of true internal states may be revealed. But remember that this is all that it is, an approximation of the Truth. Even those parts of the Universe with which we are most familiar, our internal lives, are experienced via language and thus cannot be Truly known.
+
+*"I was of course aware that the novel, being composed of signs, could not be reality itself, but merely invoke reality, and that the reality it invoked would be just as abstract as the one from which I was trying to escape."* - Karl Ove Knausgård
 
 ### Words in Equilibrium
 
