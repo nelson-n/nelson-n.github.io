@@ -1,29 +1,21 @@
 ---
 layout: post
 title:  "Of the human and Universal"
-date:   2023-07-04 14:00:00 -0800
+date:   2023-12-31 14:00:00 -0800
 categories: Philosophy Metaphysics
 ---
 
 ### Propositions
 
-* Gratitude always, for the counterfactual is nothing.
-
-* Pursue meaning relative to aesthetics.
-
-* There can be no aesthetic, ethical, or political superiority.
-
-* Words are not functional objects. Words are aesthetic objects and should be treated as such. Where one tries to mingle the profound and the banal, the disappointed man speaks.
-
-* In the equilibrium, all knowledge goes to zero. By destroying knowledge, one may both know and not be destroyed.
-
-* Think yourself into the perception of the world that you desire.
-
-* Construct the Self that allows you to realize your Global Aesthetics.
-
-* Striving towards our Global Aesthetics is Beauty, and the pursuit of Beauty is how we are to act in a metaphysically silent Universe.
-
-* To be a great human is to live in superposition between the human and the Universal. To be a great human is to gracefully live in paradox.
+Gratitude always, for the counterfactual is nothing.  
+Pursue meaning relative to aesthetics.  
+There can be no aesthetic, ethical, or political superiority.  
+Words are not functional objects. Words are aesthetic objects and should be treated as such. Where one tries to mingle the profound and the banal, the disappointed man speaks.  
+In the equilibrium, all knowledge goes to zero. By destroying knowledge, one may both know and not be destroyed.  
+Think yourself into the perception of the world that you desire.  
+Construct the Self that allows you to realize your Global Aesthetics.  
+Striving towards our Global Aesthetics is Beauty, and the pursuit of Beauty is how we are to act in a metaphysically silent Universe.  
+To be a great human is to live in superposition between the human and the Universal. To be a great human is to gracefully live in paradox.
 
 ### Foreward
 
