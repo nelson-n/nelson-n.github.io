@@ -5,7 +5,7 @@ date:   2023-06-30 14:14:35 -0800
 categories: Literature
 ---
 
-The following is a set of curated reading lists which each follow a distinct thread. These lists transcends time, literary style, or theme with the goal of identifying books that speak nicely to each other and ultimately offer the reader a broad understanding of a specific theme. Lists should be read in order and will be periodically updated.
+The following is a set of curated reading lists that each follow a distinct thread. These lists transcends time, literary style, or topic with the goal of identifying books that speak nicely to each other and ultimately offer the reader a broad understanding of a specific theme. Lists should be read in order and will be periodically updated.
 
 ---
 
@@ -30,6 +30,19 @@ Books that do an exceptional job of capturing human existence and its associated
 
 <br>
 
+### Philosophy and Metaphysics: From Beginning to Endgame
+
+A list of works necessary to traverse many of the principal findings of philosophy and metaphysics. Begins with a post-Platonic primer on Western philosophy before building up to Wittgenstein, after which nothing else need be said.
+
+1. *On the Genealogy of Morals*, **Friedrich Nietzsche**, 1887 &darr;
+2. *Fear and Trembling*, **Søren Kierkegaard**, 1843 &darr;
+3. *The Accursed Share*, **Georges Bataille**, 1949 &darr;
+4. *The Inoperative Community*, **Jean-Luc Nancy**, 1986 &darr;
+5. *Being and Time*, **Martin Heidegger**, 1927 &darr;
+6. *Tractatus Logico-Philosophicus*, **Ludwig Wittgenstein**, 1921
+
+<br>
+
 ### On Human Nature
 
 A set of works that illuminate the complexity of humanity and the nature of good and evil. Readers of this list will learn things about the world, not necessarily nice things.
@@ -51,22 +64,8 @@ A list of novels tracing the maladies of our age throughout history: decadence, 
 3. *Against Nature*, **Joris-Karl Huysmans**, 1884 &darr;
 4. *Submission*, **Michel Houellebecq**, 2015 &darr;
 5. *The Elementary Particles*, **Michel Houellebecq**, 1998 &darr;
-6. *Less Than Zero*, **Bret Easton Ellis**, 1985 &darr;
-7. *The Stranger*, **Albert Camus**, 1942 &darr;
-8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
-
-<br>
-
-### Philosophy and Metaphysics: From Beginning to Endgame
-
-A list of works necessary to traverse many of the principal findings of philosophy and metaphysics. Begins with a post-Platonic primer on Western philosophy before building up to Wittgenstein, after which nothing else need be said.
-
-1. *On the Genealogy of Morals*, **Friedrich Nietzsche**, 1887 &darr;
-2. *Fear and Trembling*, **Søren Kierkegaard**, 1843 &darr;
-3. *The Accursed Share*, **Georges Bataille**, 1949 &darr;
-3. *The Inoperative Community*, **Jean-Luc Nancy**, 1986 &darr;
-3. *Being and Time*, **Martin Heidegger**, 1927 &darr;
-4. *Tractatus Logico-Philosophicus*, **Ludwig Wittgenstein**, 1921
+6. *The Stranger*, **Albert Camus**, 1942 &darr;
+7. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
 <br>
 
