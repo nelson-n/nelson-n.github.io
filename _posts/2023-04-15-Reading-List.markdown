@@ -26,7 +26,8 @@ Books that do an exceptional job of capturing human existence and its associated
 9. *A Woman's Place*, **Annie Ernaux**, 1987 &darr;
 10. *My Struggle Book 4*, **Karl Knausgaard**, 2009 &darr;
 11. *My Struggle Book 5*, **Karl Knausgaard**, 2010 &darr;
-12. *My Struggle Book 6*, **Karl Knausgaard**, 2011
+12. *A Frozen Woman*, **Annie Ernaux**, 1981 &darr;
+13. *My Struggle Book 6*, **Karl Knausgaard**, 2011
 
 <br>
 
