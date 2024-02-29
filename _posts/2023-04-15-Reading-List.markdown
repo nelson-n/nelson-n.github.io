@@ -49,10 +49,11 @@ A list of works necessary to traverse many of the principal findings of philosop
 A set of works that illuminate the complexity of humanity and the nature of good and evil. Readers of this list will learn things about the world, not necessarily nice things.
 
 1. *Paradise Lost*, **John Milton**, 1674 &darr;
-2. *On the Genealogy of Morality*, **Friedrich Nietzsche**, 1887 &darr;
+2. *On the Genealogy of Morals*, **Friedrich Nietzsche**, 1887 &darr;
 3. *Crime and Punishment*, **Fyodor Dostoevsky**, 1866 &darr; 
 4. *Heart of Darkness*, **Joseph Conrad**, 1899 &darr;
-5. *The Brothers Karamazov*, **Fyodor Dostoevsky**, 1880
+5. *The Idiot*, **Fyodor Dostoevsky**, 1869 &darr;
+6. *The Brothers Karamazov*, **Fyodor Dostoevsky**, 1880
 
 <br>
 
