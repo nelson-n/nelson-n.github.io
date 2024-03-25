@@ -85,10 +85,10 @@ A set of works that transcend the description of story, book, or novel to achiev
 
 ### The American West 
 
-Novels that capture the search for the ideals and tenets of the American West.
+Novels that capture the search for the illusive ideals and tenets of the American West.
 
 1. *East of Eden*, **John Steinbeck**, 1952 &darr;
 2. *On the Road*, **Jack Kerouac**, 1957 &darr;
 3. *One Flew Over the Cuckoo's Nest*, **Ken Kesey**, 1962 &darr;
 4. *Less than Zero*, **Bret Easton Ellis**, 1985 &darr;
-5. *Dharma Bums*, **Jack Kerouac**, 1958 &darr;
+5. *Dharma Bums*, **Jack Kerouac**, 1958 
