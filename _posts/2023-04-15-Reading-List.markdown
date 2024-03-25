@@ -65,9 +65,10 @@ A list of novels tracing the maladies of our age throughout history: decadence, 
 2. *A Hero of Our Time*, **Mikhail Lermontov**, 1840 &darr;
 3. *Against Nature*, **Joris-Karl Huysmans**, 1884 &darr;
 4. *Submission*, **Michel Houellebecq**, 2015 &darr;
-5. *The Elementary Particles*, **Michel Houellebecq**, 1998 &darr;
-6. *The Stranger*, **Albert Camus**, 1942 &darr;
-7. *The Map and the Territory*, **Michel Houellebecq**, 2010 
+5. *Pan*, **Knut Hamsun**, 1894 &darr;
+6. *The Elementary Particles*, **Michel Houellebecq**, 1998 &darr;
+7. *The Stranger*, **Albert Camus**, 1942 &darr;
+8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
 <br>
 
@@ -79,3 +80,15 @@ A set of works that transcend the description of story, book, or novel to achiev
 2. *The Odyssey*, **Homer**, 700BC &darr;
 3. *The Aeneid*, **Virgil**, 29BC &darr;
 4. *War and Peace*, **Leo Tolstoy**, 1867
+
+<br>
+
+### The American West 
+
+Novels that capture the search for the ideals and tenets of the American West.
+
+1. *East of Eden*, **John Steinbeck**, 1952 &darr;
+2. *On the Road*, **Jack Kerouac**, 1957 &darr;
+3. *One Flew Over the Cuckoo's Nest*, **Ken Kesey**, 1962 &darr;
+4. *Less than Zero*, **Bret Easton Ellis**, 1985 &darr;
+5. *Dharma Bums*, **Jack Kerouac**, 1958 &darr;
