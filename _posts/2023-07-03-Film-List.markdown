@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Film Lists"
+date:   2023-07-31 14:14:35 -0800
+categories: Films
+---
+
+The following is a set of films that each follow a distinct thread. Films should be watched in order and will be periodically updated.
+
+---
+
+<br>
+
+### Beauty Will Save the World
+
+1. *Portrait of a Lady on Fire*, **Céline Sciamma**, 2019 &darr; 
+2. *Yi Yi*, **Edward Wang**, 2000 &darr; 
+3. *Drive My Car*, **Ryusuke Hamaguchi**, 2021 &darr; 
+4. *Burnt by the Sun*, **Nikita Mikhalkov**, 1994 &darr;
+5. *The Tree of Life*, **Terrence Malick**, 2011 &darr;
+6. *Perfect Days*, **Wim Wenders**, 2023 
+
+<br>
+
+### Absurdist Lens
+
+1. *The Great Beauty*, **Paolo Sorrentino**, 2013 &darr;
+2. *Force Majeure*, **Ruben Östlund**, 2014 &darr;
+3. *Sundown*, **Michel Franco**, 2021 &darr;
+4. *Triange of Sadness*, **Ruben Östlund**, 2022 
+
+<br>
+
+### Character Thrillers
+
+1. *Incendies*, **Denis Villeneuve**, 2010 &darr; 
+2. *Azor*, **Andreas Fontana**, 2021 &darr; 
+3. *Phantom Thread*, **Paul Thomas Anderson**, 2017 &darr; 
+4. *Tár*, **Todd Field**, 2022 &darr;
+5. *Ex Machina*, **Alex Garland**, 2014 &darr;
+6. *The Invisible Guest*, **Oriol Paulo**, 2016 &darr;
+7. *Parasite*, **Bong Joon-ho**, 2019 
+
+<br>
+
+### The Way of Violence
+
+1. *No Country for Old Men*, **Coen Brothers**, 2007 &darr;
+2. *Sicario*, **Denis Villeneuve**, 2015 &darr;
+3. *Heat*, **Michael Mann**, 1995 &darr;
+4. *City of God*, **Fernando Meirelles, Kátia Lund**, 2002 
+
+<br>
+
+
