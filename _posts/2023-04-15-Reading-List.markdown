@@ -67,8 +67,9 @@ A list of novels tracing the maladies of our age throughout history: decadence, 
 4. *Submission*, **Michel Houellebecq**, 2015 &darr;
 5. *Pan*, **Knut Hamsun**, 1894 &darr;
 6. *The Elementary Particles*, **Michel Houellebecq**, 1998 &darr;
-7. *The Stranger*, **Albert Camus**, 1942 &darr;
-8. *The Map and the Territory*, **Michel Houellebecq**, 2010 
+7. *Platform*, **Michel Houellebecq**, 2001 &darr;
+8. *The Stranger*, **Albert Camus**, 1942 &darr;
+9. *The Map and the Territory*, **Michel Houellebecq**, 2010 
 
 <br>
 
@@ -80,6 +81,13 @@ A set of works that transcend the description of story, book, or novel to achiev
 2. *The Odyssey*, **Homer**, 700BC &darr;
 3. *The Aeneid*, **Virgil**, 29BC &darr;
 4. *War and Peace*, **Leo Tolstoy**, 1867
+
+<br>
+
+### Pure Beauty
+
+1. *Hyperion*, **Friedrich Holderlin**, 1797 &darr;
+2. *Letters to a Young Poet*, **Rainer Maria Rilke**, 1929 
 
 <br>
 

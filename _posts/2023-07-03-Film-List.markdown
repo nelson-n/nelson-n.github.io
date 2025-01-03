@@ -18,7 +18,8 @@ The following is a set of films that each follow a distinct thread. Films should
 3. *Drive My Car*, **Ryusuke Hamaguchi**, 2021 &darr; 
 4. *Burnt by the Sun*, **Nikita Mikhalkov**, 1994 &darr;
 5. *The Tree of Life*, **Terrence Malick**, 2011 &darr;
-6. *Perfect Days*, **Wim Wenders**, 2023 
+6. *Perfect Days*, **Wim Wenders**, 2023 &darr;
+7. *La Chimera*, **Alice Rohrwacher**, 2023 
 
 <br>
 
@@ -39,7 +40,8 @@ The following is a set of films that each follow a distinct thread. Films should
 4. *Tár*, **Todd Field**, 2022 &darr;
 5. *Ex Machina*, **Alex Garland**, 2014 &darr;
 6. *The Invisible Guest*, **Oriol Paulo**, 2016 &darr;
-7. *Parasite*, **Bong Joon-ho**, 2019 
+7. *Anatomy of a Fall*, **Justine Triet**, 2023 &darr;
+8. *Parasite*, **Bong Joon-ho**, 2019 
 
 <br>
 
@@ -52,4 +54,9 @@ The following is a set of films that each follow a distinct thread. Films should
 
 <br>
 
+### Assorted (Just Great Films)
 
+1. *A Seperation*, **Asghar Farhadi**, 2011 &darr;
+2. *Dune: Part Two*, **Denis Villeneuve**, 2023 
+
+<br>
