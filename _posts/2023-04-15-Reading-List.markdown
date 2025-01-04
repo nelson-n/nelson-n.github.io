@@ -86,6 +86,8 @@ A set of works that transcend the description of story, book, or novel to achiev
 
 ### Pure Beauty
 
+Expressions of pure beauty, nothing less.
+
 1. *Hyperion*, **Friedrich Holderlin**, 1797 &darr;
 2. *Letters to a Young Poet*, **Rainer Maria Rilke**, 1929 
 
