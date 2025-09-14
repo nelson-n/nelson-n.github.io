@@ -87,6 +87,8 @@ Aesthetics is the only object, Beauty the only pursuit.
 
 If Beauty is a pursuit, an act of moving in a specific direction, the question remains of what this direction should be. While no normative direction can be prescribed, we can assert that this direction ought to be well-defined. This is Clarity. A well-defined understanding of one's Global Aesthetics, a certainty about the direction in which one should move in the pursuit of Beauty. While advice on how to achieve Clarity is beyond the scope of this work, within the framework developed in this piece we can assert the importance of Clarity and its role in actualizing Beauty.
 
+"*Be guided by beauty. It can be the way a company runs, or the way an experiment comes out, or the way a theorem comes out, but there’s a sense of beauty when something is working well, almost an aesthetic to it.*" - Jim Simons
+
 ### A Metaphysically Silent Universe
 
 Any call to the Universal is met with silence as the meaning of the Universe is nothing more than that which it is, and that which it is cannot be captured by anything other than the Universe itself. We find ourselves in a metaphysically silent Universe where any call for meaning goes unanswered and the only directive we are given to pursue is an unfounded set of Global Aesthetics. While our Global Aesthetics appear a shaky lifeboat amid a sweeping sea of tumult, it is all that we have to cling to, and in a metaphysically precarious Universe the best that we can do is cling on tightly.
